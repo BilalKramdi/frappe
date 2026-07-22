@@ -157,6 +157,8 @@
     text-wrap: nowrap;
     display: flex;
     justify-content: space-between;
+    width: 100%;
+    min-width: 0;
     height: 35px;
     flex-direction: column;
 }
