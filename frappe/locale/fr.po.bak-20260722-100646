@@ -32380,529 +32380,529 @@ msgstr "← Retour pour charger des fichiers"
 #. Added by add_missing_js_translations.py (direct)
 #: frappe/public/js/frappe/form/footer/version_timeline_content_builder.js:326
 msgid "1 row from {0}"
-msgstr "1 ligne supprimée de {0}"
+msgstr ""
 
 #. Added by add_missing_js_translations.py (direct)
 #: frappe/public/js/frappe/form/footer/version_timeline_content_builder.js:281
 msgid "1 row to {0}"
-msgstr "1 ligne ajoutée à {0}"
+msgstr ""
 
 #. Added by add_missing_js_translations.py (indirect via sidebar_item_html)
 #: frappe/public/js/frappe/ui/toolbar/search.js:239
 msgid "<li class=\"search-sidebar-item standard-sidebar-item list-link\" data-category=\"{0}\">"
-msgstr "<li class=\"search-sidebar-item standard-sidebar-item list-link\" data-category=\"{0}\">"
+msgstr ""
 
 #. Added by add_missing_js_translations.py (direct)
 #: frappe/public/js/frappe/views/communication.js:196
 msgid "Add CSS"
-msgstr "Ajouter CSS"
+msgstr ""
 
 #. Added by add_missing_js_translations.py (indirect via label)
 #: frappe/public/js/frappe/ui/sidebar/sidebar_item.js:126
 msgid "Add Item Below"
-msgstr "Ajouter un élément en dessous"
+msgstr ""
 
 #. Added by add_missing_js_translations.py (indirect via label)
 #: frappe/public/js/frappe/ui/sidebar/sidebar_item.js:313
 msgid "Add Nested Items"
-msgstr "Ajouter des éléments imbriqués"
+msgstr ""
 
 #. Added by add_missing_js_translations.py (direct)
 #: frappe/public/js/frappe/widgets/quick_list_widget.js:32
 msgid "Add New"
-msgstr "Ajouter"
+msgstr ""
 
 #. Added by add_missing_js_translations.py (direct)
 #: frappe/public/js/frappe/form/grid.js:103
 msgid "Add multiple"
-msgstr "Ajouter plusieurs"
+msgstr ""
 
 #. Added by add_missing_js_translations.py (direct)
 #: frappe/public/js/frappe/form/grid.js:100
 msgid "Add row"
-msgstr "Ajouter une ligne"
+msgstr ""
 
 #. Added by add_missing_js_translations.py (direct)
 #: frappe/desk/doctype/workspace/workspace.js:49
 msgid "Add to Desktop"
-msgstr "Ajouter au bureau"
+msgstr ""
 
 #. Added by add_missing_js_translations.py (direct)
 #: frappe/public/js/frappe/widgets/quick_list_widget.js:67
 msgid "Add/Update Filter"
-msgstr "Ajouter/mettre à jour le filtre"
+msgstr ""
 
 #. Added by add_missing_js_translations.py (direct)
 #: frappe/public/js/frappe/ui/toolbar/search.js:259
 msgid "All Results"
-msgstr "Tous les résultats"
+msgstr ""
 
 #. Added by add_missing_js_translations.py (direct)
 #: frappe/public/js/frappe/form/toolbar.js:741
 msgid "Already amended as {0}"
-msgstr "Déjà modifié en {0}"
+msgstr ""
 
 #. Added by add_missing_js_translations.py (direct)
 #: frappe/custom/doctype/customize_form/customize_form.js:284
 msgid "Apply Module Export Filter"
-msgstr "Appliquer le filtre d’exportation du module"
+msgstr ""
 
 #. Added by add_missing_js_translations.py (direct)
 #: frappe/public/js/frappe/form/grid.js:319
 msgid "Are you sure you want to delete all {0} rows?"
-msgstr "Voulez-vous vraiment supprimer les {0} lignes ?"
+msgstr ""
 
 #. Added by add_missing_js_translations.py (direct)
 #: frappe/public/js/frappe/desk.js:381
 msgid "Are you sure you want to log out?"
-msgstr "Voulez-vous vraiment vous déconnecter ?"
+msgstr ""
 
 #. Added by add_missing_js_translations.py (indirect via label)
 #: frappe/public/js/frappe/views/reports/query_report.js:1307 frappe/public/js/frappe/views/reports/query_report.js:1311
 msgid "Chart Preview"
-msgstr "Aperçu du graphique"
+msgstr ""
 
 #. Added by add_missing_js_translations.py (direct)
 #: frappe/public/js/frappe/form/controls/link.js:17
 msgid "Clear Link"
-msgstr "Effacer le lien"
+msgstr ""
 
 #. Added by add_missing_js_translations.py (direct)
 #: frappe/public/js/frappe/list/base_list.js:1376
 msgid "Clear all filters"
-msgstr "Effacer tous les filtres"
+msgstr ""
 
 #. Added by add_missing_js_translations.py (direct)
 #: frappe/public/js/frappe/views/workspace/workspace.js:721
 msgid "Click on {0} to edit"
-msgstr "Cliquez sur {0} pour modifier"
+msgstr ""
 
 #. Added by add_missing_js_translations.py (direct)
 #: frappe/public/js/frappe/ui/toolbar/about.js:69
 msgid "Copy Apps Version"
-msgstr "Copier la version des applications"
+msgstr ""
 
 #. Added by add_missing_js_translations.py (direct)
 #: frappe/public/js/frappe/views/file/file_view.js:302
 msgid "Copy File URL"
-msgstr "Copier l’URL du fichier"
+msgstr ""
 
 #. Added by add_missing_js_translations.py (direct)
 #: frappe/public/js/frappe/list/list_view.js:312
 msgctxt "Description of a list view shortcut"
 msgid "Create a new document"
-msgstr "Créer un nouveau document"
+msgstr ""
 
 #. Added by add_missing_js_translations.py (direct)
 #: frappe/public/js/frappe/form/sidebar/form_sidebar.js:174
 msgid "Created By You"
-msgstr "Établi par vous"
+msgstr ""
 
 #. Added by add_missing_js_translations.py (direct)
 #: frappe/public/js/frappe/form/sidebar/form_sidebar.js:175
 msgid "Created By {0}"
-msgstr "Établi par {0}"
+msgstr ""
 
 #. Added by add_missing_js_translations.py (indirect via title)
 #: frappe/public/js/frappe/views/workspace/blocks/block.js:161
 msgid "Delete Block"
-msgstr "Supprimer le bloc"
+msgstr ""
 
 #. Added by add_missing_js_translations.py (direct)
 #: frappe/public/js/frappe/form/grid.js:92
 msgid "Delete all"
-msgstr "Tout supprimer"
+msgstr ""
 
 #. Added by add_missing_js_translations.py (direct)
 #: frappe/public/js/frappe/form/grid.js:367
 msgid "Delete all {0} rows"
-msgstr "Supprimer toutes les {0} lignes"
+msgstr ""
 
 #. Added by add_missing_js_translations.py (direct)
 #: frappe/public/js/frappe/form/grid.js:237
 msgid "Delete row"
-msgstr "Supprimer la ligne"
+msgstr ""
 
 #. Added by add_missing_js_translations.py (direct)
 #: frappe/public/js/frappe/form/grid.js:240
 msgid "Delete {0} rows"
-msgstr "Supprimer {0} lignes"
+msgstr ""
 
 #. Added by add_missing_js_translations.py (direct)
 #: frappe/public/js/frappe/form/controls/base_input.js:232
 msgid "Documentation"
-msgstr "Documentation"
+msgstr ""
 
 #. Added by add_missing_js_translations.py (direct)
 #: frappe/public/js/frappe/form/grid.js:238
 msgid "Duplicate row"
-msgstr "Dupliquer la ligne"
+msgstr ""
 
 #. Added by add_missing_js_translations.py (direct)
 #: frappe/public/js/frappe/form/grid.js:96
 msgid "Duplicate rows"
-msgstr "Dupliquer les lignes"
+msgstr ""
 
 #. Added by add_missing_js_translations.py (direct)
 #: frappe/public/js/frappe/form/grid.js:241
 msgid "Duplicate {0} rows"
-msgstr "Dupliquer {0} lignes"
+msgstr ""
 
 #. Added by add_missing_js_translations.py (direct)
 #: frappe/public/js/frappe/ui/filters/filter.js:401
 msgid "Edit Filter"
-msgstr "Modifier le filtre"
+msgstr ""
 
 #. Added by add_missing_js_translations.py (indirect via label)
 #: frappe/public/js/frappe/ui/sidebar/sidebar_item.js:119 frappe/public/js/frappe/ui/sidebar/sidebar_item.js:305
 msgid "Edit Item"
-msgstr "Modifier l’élément"
+msgstr ""
 
 #. Added by add_missing_js_translations.py (direct)
 #: frappe/printing/page/print_format_builder/print_format_builder.js:414
 msgid "Edit Section"
-msgstr "Modifier la section"
+msgstr ""
 
 #. Added by add_missing_js_translations.py (direct)
 #: frappe/public/js/frappe/views/communication.js:904
 msgid "Email Sent"
-msgstr "Courriel envoyé"
+msgstr ""
 
 #. Added by add_missing_js_translations.py (direct)
 #: frappe/public/js/frappe/views/communication.js:941
 msgid "Email sending undone"
-msgstr "Envoi du courriel annulé"
+msgstr ""
 
 #. Added by add_missing_js_translations.py (indirect via title)
 #: frappe/public/js/frappe/views/workspace/blocks/block.js:167
 msgid "Expand Block"
-msgstr "Développer le bloc"
+msgstr ""
 
 #. Added by add_missing_js_translations.py (direct)
 #: frappe/public/js/frappe/views/reports/report_utils.js:245
 msgid "Export Report: {0}"
-msgstr "Exporter le rapport : {0}"
+msgstr ""
 
 #. Added by add_missing_js_translations.py (direct)
 #: frappe/custom/doctype/customize_form/customize_form.js:286
 msgid "Export only customizations assigned to the selected module.<br><span class='text-muted'><strong>Note:</strong> You must set the <em>Module (for export)</em> field on Custom Field and Property Setter records before applying this filter.</span><p class='alert alert-warning'> <strong>Warning:</strong> Customizations from other modules will be excluded.</p>"
-msgstr "Exporter uniquement les personnalisations attribuées au module sélectionné.<br><span class='text-muted'><strong>Remarque :</strong> Vous devez définir le champ <em>Module (pour l’exportation)</em> dans les enregistrements Custom Field et Property Setter avant d’appliquer ce filtre.</span><p class='alert alert-warning'> <strong>Avertissement :</strong> Les personnalisations des autres modules seront exclues.</p>"
+msgstr ""
 
 #. Added by add_missing_js_translations.py (direct)
 #: frappe/public/js/frappe/form/controls/link.js:759
 msgid "Filtered by: {0}."
-msgstr "Filtré par : {0}."
+msgstr ""
 
 #. Added by add_missing_js_translations.py (direct)
 #: frappe/public/js/frappe/form/grid_pagination.js:123
 msgid "First"
-msgstr "Première"
+msgstr ""
 
 #. Added by add_missing_js_translations.py (direct)
 #: frappe/public/js/frappe/form/linked_with.js:53
 msgid "Following documents are linked with {0}"
-msgstr "Les documents suivants sont liés à {0}"
+msgstr ""
 
 #. Added by add_missing_js_translations.py (direct)
 #: frappe/public/js/frappe/views/reports/report_view.js:456
 msgid "For comparison, use >5, <10 or =324.\nFor ranges, use 5:10 (for values between 5 & 10)."
-msgstr "Pour comparer, utilisez >5, <10 ou =324.\nPour les plages, utilisez 5:10 (pour les valeurs comprises entre 5 et 10)."
+msgstr ""
 
 #. Added by add_missing_js_translations.py (direct)
 #: frappe/website/doctype/web_form/web_form.js:383
 msgid "Go to Login Required field"
-msgstr "Accéder au champ Connexion requise"
+msgstr ""
 
 #. Added by add_missing_js_translations.py (direct)
 #: frappe/public/js/frappe/views/communication.js:143
 msgid "HTML Message"
-msgstr "Message HTML"
+msgstr ""
 
 #. Added by add_missing_js_translations.py (direct)
 #: frappe/public/js/frappe/views/inbox/inbox_view.js:102
 msgid "Has Attachments"
-msgstr "Contient des pièces jointes"
+msgstr ""
 
 #. Added by add_missing_js_translations.py (direct)
 #: frappe/public/js/frappe/views/reports/query_report.js:1773
 msgid "Hidden columns include: <br> {0}"
-msgstr "Les colonnes masquées comprennent : <br> {0}"
+msgstr ""
 
 #. Added by add_missing_js_translations.py (indirect via target)
 #: frappe/public/js/frappe/ui/toolbar/search_utils.js:314
 msgid "Hub"
-msgstr "Hub"
+msgstr ""
 
 #. Added by add_missing_js_translations.py (direct)
 #: frappe/desk/page/desktop/desktop.js:1059
 msgid "Icon is not correctly configured please check the workspace sidebar to it"
-msgstr "L’icône n’est pas correctement configurée. Veuillez vérifier la barre latérale de l’espace de travail qui lui est associée."
+msgstr ""
 
 #. Added by add_missing_js_translations.py (direct)
 #: frappe/public/js/frappe/form/grid_pagination.js:129
 msgid "Last"
-msgstr "Dernière"
+msgstr ""
 
 #. Added by add_missing_js_translations.py (direct)
 #: frappe/public/js/frappe/form/sidebar/form_sidebar.js:163
 msgid "Last Edited by You"
-msgstr "Dernière modification par vous"
+msgstr ""
 
 #. Added by add_missing_js_translations.py (direct)
 #: frappe/public/js/frappe/form/sidebar/form_sidebar.js:164
 msgid "Last Edited by {0}"
-msgstr "Dernière modification par {0}"
+msgstr ""
 
 #. Added by add_missing_js_translations.py (direct)
 #: frappe/public/js/frappe/list/list_view.js:804
 msgid "Liked by me"
-msgstr "Aimé par moi"
+msgstr ""
 
 #. Added by add_missing_js_translations.py (direct)
 #: frappe/public/js/frappe/ui/like.js:117
 msgid "Liked by {0} people"
-msgstr "Aimé par {0} personnes"
+msgstr ""
 
 #. Added by add_missing_js_translations.py (direct)
 #: frappe/public/js/frappe/views/inbox/inbox_view.js:109
 msgid "Linked with {0}"
-msgstr "Lié avec {0}"
+msgstr ""
 
 #. Added by add_missing_js_translations.py (direct)
 #: frappe/public/js/billing.bundle.js:77
 msgid "Manage Billing"
-msgstr "Gérer la facturation"
+msgstr ""
 
 #. Added by add_missing_js_translations.py (direct)
 #: frappe/public/js/frappe/views/communication.js:63
 msgid "More Options"
-msgstr "Plus d’options"
+msgstr ""
 
 #. Added by add_missing_js_translations.py (indirect via label, indirect via title)
 #: frappe/public/js/frappe/views/workspace/blocks/block.js:184 frappe/public/js/frappe/views/workspace/blocks/block.js:185
 msgid "Move Down"
-msgstr "Déplacer vers le bas"
+msgstr ""
 
 #. Added by add_missing_js_translations.py (indirect via label, indirect via title)
 #: frappe/public/js/frappe/views/workspace/blocks/block.js:178 frappe/public/js/frappe/views/workspace/blocks/block.js:179
 msgid "Move Up"
-msgstr "Déplacer vers le haut"
+msgstr ""
 
 #. Added by add_missing_js_translations.py (direct)
 #: frappe/public/js/frappe/widgets/number_card_widget.js:235
 msgctxt "Number not available"
 msgid "N/A"
-msgstr "N/D"
+msgstr ""
 
 #. Added by add_missing_js_translations.py (direct)
 #: frappe/core/doctype/success_action/success_action.js:44
 msgid "Next Actions"
-msgstr "Actions suivantes"
+msgstr ""
 
 #. Added by add_missing_js_translations.py (direct)
 #: frappe/public/js/frappe/views/reports/query_report.js:1556
 msgid "No data to perform this action"
-msgstr "Aucune donnée pour effectuer cette action"
+msgstr ""
 
 #. Added by add_missing_js_translations.py (direct)
 #: frappe/public/js/frappe/views/reports/report_view.js:347
 msgid "No matching entries in the current results"
-msgstr "Aucune entrée correspondante dans les résultats actuels"
+msgstr ""
 
 #. Added by add_missing_js_translations.py (direct)
 #: frappe/public/js/frappe/form/form.js:1181
 msgid "No permission to '{0}' {1}"
-msgstr "Pas d’autorisation pour « {0} » {1}"
+msgstr ""
 
 #. Added by add_missing_js_translations.py (direct)
 #: frappe/public/js/frappe/form/controls/data.js:84 frappe/public/js/frappe/form/controls/link.js:20
 msgid "Open Link"
-msgstr "Ouvrir le lien"
+msgstr ""
 
 #. Added by add_missing_js_translations.py (direct)
 #: frappe/public/js/frappe/form/controls/base_control.js:166
 msgid "Open Translation"
-msgstr "Ouvrir la traduction"
+msgstr ""
 
 #. Added by add_missing_js_translations.py (direct)
 #: frappe/public/js/frappe/views/reports/query_report.js:1557
 msgid "Please adjust filters to include some data"
-msgstr "Veuillez ajuster les filtres pour inclure des données"
+msgstr ""
 
 #. Added by add_missing_js_translations.py (direct)
 #: frappe/public/js/frappe/desk.js:218
 msgid "Please enter the password for: <b>{0}</b>"
-msgstr "Veuillez saisir le mot de passe pour : <b>{0}</b>"
+msgstr ""
 
 #. Added by add_missing_js_translations.py (indirect via label)
 #: frappe/public/js/frappe/views/reports/query_report.js:1301
 msgid "Preview Chart"
-msgstr "Prévisualiser le graphique"
+msgstr ""
 
 #. Added by add_missing_js_translations.py (direct)
 #: frappe/public/js/frappe/widgets/quick_list_widget.js:53
 msgid "Refresh List"
-msgstr "Actualiser la liste"
+msgstr ""
 
 #. Added by add_missing_js_translations.py (direct)
 #: frappe/public/js/frappe/ui/filters/filter.js:404
 msgid "Remove Filter"
-msgstr "Retirer le filtre"
+msgstr ""
 
 #. Added by add_missing_js_translations.py (direct)
 #: frappe/desk/page/desktop/desktop.js:1197
 msgid "Removed Icons"
-msgstr "Icônes supprimées"
+msgstr ""
 
 #. Added by add_missing_js_translations.py (direct)
 #: frappe/public/js/frappe/ui/sidebar/sidebar.js:123
 msgid "Sales without complexity, lock-in and per-user costs. Try it for free!"
-msgstr "Des ventes sans complexité, sans dépendance ni coûts par utilisateur. Essayez gratuitement !"
+msgstr ""
 
 #. Added by add_missing_js_translations.py (indirect via filter_name)
 #: frappe/public/js/frappe/list/list_filter.js:88
 msgid "Save Current Filter"
-msgstr "Enregistrer le filtre actuel"
+msgstr ""
 
 #. Added by add_missing_js_translations.py (direct)
 #: frappe/public/js/frappe/form/controls/data.js:149
 msgid "Scan"
-msgstr "Scanner"
+msgstr ""
 
 #. Added by add_missing_js_translations.py (direct)
 #: frappe/public/js/frappe/phone_picker/phone_picker.js:20
 msgid "Search for countries..."
-msgstr "Rechercher des pays..."
+msgstr ""
 
 #. Added by add_missing_js_translations.py (direct)
 #: frappe/public/js/frappe/icon_picker/icon_picker.js:20
 msgid "Search for icons..."
-msgstr "Rechercher des icônes..."
+msgstr ""
 
 #. Added by add_missing_js_translations.py (direct)
 #: frappe/public/js/frappe/ui/toolbar/awesome_bar.js:35
 msgid "Search or type a command"
-msgstr "Rechercher ou saisir une commande"
+msgstr ""
 
 #. Added by add_missing_js_translations.py (direct)
 #: frappe/website/js/website.js:429
 msgid "Search the docs (Press / to focus)"
-msgstr "Rechercher dans la documentation (appuyez sur / pour activer le champ)"
+msgstr ""
 
 #. Added by add_missing_js_translations.py (direct)
 #: frappe/core/doctype/security_settings/security_settings.js:13
 msgid "Security.txt will be served only under HTTPS."
-msgstr "Security.txt sera accessible uniquement via HTTPS."
+msgstr ""
 
 #. Added by add_missing_js_translations.py (direct)
 #: frappe/public/js/frappe/views/workspace/blocks/block.js:201
 msgid "Setting"
-msgstr "Paramètre"
+msgstr ""
 
 #. Added by add_missing_js_translations.py (indirect via label)
 #: frappe/public/js/frappe/views/workspace/blocks/block.js:172
 msgid "Shrink"
-msgstr "Réduire"
+msgstr ""
 
 #. Added by add_missing_js_translations.py (indirect via title)
 #: frappe/public/js/frappe/views/workspace/blocks/block.js:173
 msgid "Shrink Block"
-msgstr "Réduire le bloc"
+msgstr ""
 
 #. Added by add_missing_js_translations.py (direct)
 #: frappe/public/js/frappe/ui/sidebar/sidebar.js:143
 msgid "Support without complexity, lock-in and per-user costs. Try it for free!"
-msgstr "Bénéficiez d’une assistance sans complexité, sans dépendance à un fournisseur ni frais par utilisateur. Essayez gratuitement !"
+msgstr ""
 
 #. Added by add_missing_js_translations.py (direct)
 #: frappe/public/js/frappe/ui/sidebar/sidebar.js:121
 msgid "Switch to Frappe CRM"
-msgstr "Passer à Frappe CRM"
+msgstr ""
 
 #. Added by add_missing_js_translations.py (direct)
 #: frappe/public/js/frappe/ui/sidebar/sidebar.js:141
 msgid "Switch to Helpdesk"
-msgstr "Passer à Helpdesk"
+msgstr ""
 
 #. Added by add_missing_js_translations.py (direct)
 #: frappe/desk/page/desktop/desktop.js:531
 msgid "Toggle Awesomebar"
-msgstr "Afficher/masquer l’Awesomebar"
+msgstr ""
 
 #. Added by add_missing_js_translations.py (direct)
 #: frappe/public/js/frappe/ui/sidebar/sidebar.js:319
 msgid "Toggle sidebar"
-msgstr "Afficher/Cacher la barre latérale"
+msgstr ""
 
 #. Added by add_missing_js_translations.py (direct)
 #: frappe/core/doctype/translation/translation.js:8
 msgid "Translations can be viewed by guests, avoid storing private details in translations."
-msgstr "Les invités peuvent consulter les traductions ; évitez d’y stocker des informations privées."
+msgstr ""
 
 #. Added by add_missing_js_translations.py (indirect via label)
 #: frappe/public/js/frappe/views/reports/query_report.js:1267
 msgid "Type of Chart"
-msgstr "Type de graphique"
+msgstr ""
 
 #. Added by add_missing_js_translations.py (direct)
 #: frappe/public/js/frappe/ui/user_onboarding/user_onboarding.bundle.js:17
 msgid "Welcome to Frappe!"
-msgstr "Bienvenue dans Frappe !"
+msgstr ""
 
 #. Added by add_missing_js_translations.py (direct)
 #: frappe/public/js/frappe/views/workspace/workspace.js:710
 msgid "Welcome to the {0} workspace"
-msgstr "Bienvenue dans l’espace de travail {0}"
+msgstr ""
 
 #. Added by add_missing_js_translations.py (indirect via message)
 #: frappe/public/js/workflow_builder/store.js:94 frappe/workflow/doctype/workflow/workflow.js:68
 msgid "Workflow must have atleast one state and transition"
-msgstr "Le workflow doit comporter au moins un état et une transition"
+msgstr ""
 
 #. Added by add_missing_js_translations.py (direct)
 #: frappe/desk/doctype/workspace/workspace.js:58
 msgid "Workspace added to desktop"
-msgstr "Espace de travail ajouté au bureau"
+msgstr ""
 
 #. Added by add_missing_js_translations.py (direct)
 #: frappe/public/js/frappe/form/footer/form_timeline.js:414
 msgid "You attached {0}"
-msgstr "Vous avez attaché {0}"
+msgstr ""
 
 #. Added by add_missing_js_translations.py (direct)
 #: frappe/public/js/frappe/form/footer/version_timeline_content_builder.js:62
 msgid "You cancelled this document {1}"
-msgstr "Vous avez annulé ce document {1}"
+msgstr ""
 
 #. Added by add_missing_js_translations.py (direct)
 #: frappe/public/js/frappe/form/footer/form_timeline.js:443
 msgid "You changed {0} to {1}"
-msgstr "Vous avez modifié {0} en {1}"
+msgstr ""
 
 #. Added by add_missing_js_translations.py (direct)
 #: frappe/public/js/frappe/form/footer/version_timeline_content_builder.js:345
 msgid "You created this document {0}"
-msgstr "Vous avez créé ce document {0}"
+msgstr ""
 
 #. Added by add_missing_js_translations.py (direct)
 #: frappe/public/js/frappe/form/footer/form_timeline.js:419
 msgid "You removed attachment {0}"
-msgstr "Vous avez retiré la pièce jointe {0}"
+msgstr ""
 
 #. Added by add_missing_js_translations.py (direct)
 #: frappe/public/js/frappe/form/footer/version_timeline_content_builder.js:36
 msgid "You submitted this document {0}"
-msgstr "Vous avez soumis ce document {0}"
+msgstr ""
 
 #. Added by add_missing_js_translations.py (indirect via value)
 #: frappe/public/js/frappe/form/controls/link.js:532
 msgid "advanced_search__link_option"
-msgstr "Recherche avancée"
+msgstr ""
 
 #. Added by add_missing_js_translations.py (indirect via block_name)
 #: frappe/public/js/frappe/views/workspace/blocks/block.js:133
 msgid "card_name"
-msgstr "Nom de la carte"
+msgstr ""
 
 #. Added by add_missing_js_translations.py (indirect via value)
 #: frappe/public/js/frappe/form/controls/link.js:508
@@ -32912,13 +32912,13 @@ msgstr ""
 #. Added by add_missing_js_translations.py (direct)
 #: frappe/public/js/frappe/ui/toolbar/awesome_bar.js:234
 msgid "e.g. (55 + 434) / 4"
-msgstr "par ex. (55 + 434) / 4"
+msgstr ""
 
 #. Added by add_missing_js_translations.py (direct)
 #: frappe/public/js/frappe/form/controls/link.js:624
 msgctxt "Comparison value is empty"
 msgid "empty"
-msgstr "vide"
+msgstr ""
 
 #. Added by add_missing_js_translations.py (indirect via value)
 #: frappe/public/js/frappe/form/controls/link.js:493
@@ -32928,284 +32928,284 @@ msgstr ""
 #. Added by add_missing_js_translations.py (direct)
 #: frappe/email/doctype/email_account/email_account.js:126 frappe/email/doctype/email_account/email_account.js:139
 msgid "here"
-msgstr "ici"
+msgstr ""
 
 #. Added by add_missing_js_translations.py (direct)
 #: frappe/public/js/frappe/form/controls/link.js:661 frappe/public/js/frappe/form/controls/link.js:666 frappe/public/js/frappe/form/controls/link.js:679 frappe/public/js/frappe/form/controls/link.js:686
 msgid "is disabled"
-msgstr "est désactivé"
+msgstr ""
 
 #. Added by add_missing_js_translations.py (direct)
 #: frappe/public/js/frappe/form/controls/link.js:660 frappe/public/js/frappe/form/controls/link.js:667 frappe/public/js/frappe/form/controls/link.js:680 frappe/public/js/frappe/form/controls/link.js:685
 msgid "is enabled"
-msgstr "est activé"
+msgstr ""
 
 #. Added by add_missing_js_translations.py (indirect via value)
 #: frappe/public/js/frappe/ui/filters/filter.js:638
 msgid "last 14 days"
-msgstr "14 derniers jours"
+msgstr ""
 
 #. Added by add_missing_js_translations.py (indirect via value)
 #: frappe/public/js/frappe/ui/filters/filter.js:642
 msgid "last 30 days"
-msgstr "30 derniers jours"
+msgstr ""
 
 #. Added by add_missing_js_translations.py (indirect via value)
 #: frappe/public/js/frappe/ui/filters/filter.js:662
 msgid "last 6 months"
-msgstr "6 derniers mois"
+msgstr ""
 
 #. Added by add_missing_js_translations.py (indirect via value)
 #: frappe/public/js/frappe/ui/filters/filter.js:634
 msgid "last 7 days"
-msgstr "7 derniers jours"
+msgstr ""
 
 #. Added by add_missing_js_translations.py (indirect via value)
 #: frappe/public/js/frappe/ui/filters/filter.js:646
 msgid "last 90 days"
-msgstr "90 derniers jours"
+msgstr ""
 
 #. Added by add_missing_js_translations.py (indirect via value)
 #: frappe/public/js/frappe/ui/filters/filter.js:654
 msgid "last month"
-msgstr "Le mois dernier"
+msgstr ""
 
 #. Added by add_missing_js_translations.py (indirect via value)
 #: frappe/public/js/frappe/ui/filters/filter.js:658
 msgid "last quarter"
-msgstr "Le trimestre dernier"
+msgstr ""
 
 #. Added by add_missing_js_translations.py (indirect via value)
 #: frappe/public/js/frappe/ui/filters/filter.js:650
 msgid "last week"
-msgstr "La semaine dernière"
+msgstr ""
 
 #. Added by add_missing_js_translations.py (indirect via value)
 #: frappe/public/js/frappe/ui/filters/filter.js:666
 msgid "last year"
-msgstr "L’année dernière"
+msgstr ""
 
 #. Added by add_missing_js_translations.py (indirect via value)
 #: frappe/public/js/frappe/ui/filters/filter.js:694
 msgid "next 14 days"
-msgstr "Les 14 prochains jours"
+msgstr ""
 
 #. Added by add_missing_js_translations.py (indirect via value)
 #: frappe/public/js/frappe/ui/filters/filter.js:698
 msgid "next 30 days"
-msgstr "Les 30 prochains jours"
+msgstr ""
 
 #. Added by add_missing_js_translations.py (indirect via value)
 #: frappe/public/js/frappe/ui/filters/filter.js:714
 msgid "next 6 months"
-msgstr "Les 6 prochains mois"
+msgstr ""
 
 #. Added by add_missing_js_translations.py (indirect via value)
 #: frappe/public/js/frappe/ui/filters/filter.js:690
 msgid "next 7 days"
-msgstr "Les 7 prochains jours"
+msgstr ""
 
 #. Added by add_missing_js_translations.py (indirect via value)
 #: frappe/public/js/frappe/ui/filters/filter.js:706
 msgid "next month"
-msgstr "Le mois prochain"
+msgstr ""
 
 #. Added by add_missing_js_translations.py (indirect via value)
 #: frappe/public/js/frappe/ui/filters/filter.js:710
 msgid "next quarter"
-msgstr "Le prochain trimestre"
+msgstr ""
 
 #. Added by add_missing_js_translations.py (indirect via value)
 #: frappe/public/js/frappe/ui/filters/filter.js:702
 msgid "next week"
-msgstr "La semaine prochaine"
+msgstr ""
 
 #. Added by add_missing_js_translations.py (indirect via value)
 #: frappe/public/js/frappe/ui/filters/filter.js:718
 msgid "next year"
-msgstr "L’année prochaine"
+msgstr ""
 
 #. Added by add_missing_js_translations.py (indirect via label, indirect via value)
 #: frappe/public/js/frappe/list/base_list.js:1013 frappe/public/js/frappe/ui/filters/filter.js:617
 msgid "not set"
-msgstr "Non défini"
+msgstr ""
 
 #. Added by add_missing_js_translations.py (indirect via name)
 #: frappe/public/js/frappe/views/workspace/workspace.js:95
 msgid "private/"
-msgstr "private/"
+msgstr ""
 
 #. Added by add_missing_js_translations.py (indirect via value)
 #: frappe/public/js/frappe/ui/filters/filter.js:616
 msgid "set"
-msgstr "Défini"
+msgstr ""
 
 #. Added by add_missing_js_translations.py (indirect via value)
 #: frappe/public/js/frappe/ui/filters/filter.js:676
 msgid "this month"
-msgstr "Ce mois-ci"
+msgstr ""
 
 #. Added by add_missing_js_translations.py (indirect via value)
 #: frappe/public/js/frappe/ui/filters/filter.js:680
 msgid "this quarter"
-msgstr "Ce trimestre"
+msgstr ""
 
 #. Added by add_missing_js_translations.py (indirect via value)
 #: frappe/public/js/frappe/ui/filters/filter.js:672
 msgid "this week"
-msgstr "Cette semaine"
+msgstr ""
 
 #. Added by add_missing_js_translations.py (indirect via value)
 #: frappe/public/js/frappe/ui/filters/filter.js:684
 msgid "this year"
-msgstr "Cette année"
+msgstr ""
 
 #. Added by add_missing_js_translations.py (indirect via value)
 #: frappe/public/js/frappe/ui/filters/filter.js:743
 msgid "today"
-msgstr "Aujourd'hui"
+msgstr ""
 
 #. Added by add_missing_js_translations.py (indirect via value)
 #: frappe/public/js/frappe/ui/filters/filter.js:749
 msgid "tomorrow"
-msgstr "Demain"
+msgstr ""
 
 #. Added by add_missing_js_translations.py (indirect via action)
 #: frappe/public/js/frappe/form/form.js:2124
 msgid "update"
-msgstr "Mettre à jour"
+msgstr ""
 
 #. Added by add_missing_js_translations.py (direct)
 #: frappe/public/js/frappe/form/link_selector.js:24 frappe/public/js/frappe/form/multi_select_dialog.js:80
 msgid "value"
-msgstr "valeur"
+msgstr ""
 
 #. Added by add_missing_js_translations.py (direct)
 #: frappe/public/js/frappe/form/footer/form_timeline.js:415
 msgid "{0} attached {1}"
-msgstr "{0} a joint {1}"
+msgstr ""
 
 #. Added by add_missing_js_translations.py (direct)
 #: frappe/public/js/frappe/form/footer/version_timeline_content_builder.js:67
 msgid "{0} cancelled this document {1}"
-msgstr "{0} a annulé ce document {1}"
+msgstr ""
 
 #. Added by add_missing_js_translations.py (direct)
 #: frappe/public/js/frappe/form/footer/form_timeline.js:444
 msgid "{0} changed {1} to {2}"
-msgstr "{0} a changé {1} en {2}"
+msgstr ""
 
 #. Added by add_missing_js_translations.py (direct)
 #: frappe/public/js/frappe/form/controls/link.js:699
 msgid "{0} contains {1}"
-msgstr "{0} contient {1}"
+msgstr ""
 
 #. Added by add_missing_js_translations.py (direct)
 #: frappe/public/js/frappe/form/footer/version_timeline_content_builder.js:347
 msgid "{0} created this document {1}"
-msgstr "{0} a créé ce document {1}"
+msgstr ""
 
 #. Added by add_missing_js_translations.py (direct)
 #: frappe/public/js/frappe/form/controls/link.js:701
 msgid "{0} does not contain {1}"
-msgstr "{0} ne contient pas {1}"
+msgstr ""
 
 #. Added by add_missing_js_translations.py (direct)
 #: frappe/public/js/frappe/form/controls/link.js:674
 msgid "{0} equals {1}"
-msgstr "{0} est égal à {1}"
+msgstr ""
 
 #. Added by add_missing_js_translations.py (direct)
 #: frappe/public/js/frappe/form/controls/link.js:740
 msgid "{0} is a descendant of {1}"
-msgstr "{0} est un descendant de {1}"
+msgstr ""
 
 #. Added by add_missing_js_translations.py (direct)
 #: frappe/public/js/frappe/form/controls/link.js:704
 msgid "{0} is after {1}"
-msgstr "{0} est après {1}"
+msgstr ""
 
 #. Added by add_missing_js_translations.py (direct)
 #: frappe/public/js/frappe/form/controls/link.js:742
 msgid "{0} is an ancestor of {1}"
-msgstr "{0} est un ancêtre de {1}"
+msgstr ""
 
 #. Added by add_missing_js_translations.py (direct)
 #: frappe/public/js/frappe/form/controls/link.js:709
 msgid "{0} is before {1}"
-msgstr "{0} est avant {1}"
+msgstr ""
 
 #. Added by add_missing_js_translations.py (direct)
 #: frappe/public/js/frappe/form/controls/link.js:738
 msgid "{0} is between {1}"
-msgstr "{0} est compris entre {1}"
+msgstr ""
 
 #. Added by add_missing_js_translations.py (direct)
 #: frappe/public/js/frappe/form/controls/link.js:672 frappe/public/js/frappe/form/controls/link.js:690
 msgid "{0} is disabled"
-msgstr "{0} est désactivé"
+msgstr ""
 
 #. Added by add_missing_js_translations.py (direct)
 #: frappe/public/js/frappe/form/controls/link.js:671 frappe/public/js/frappe/form/controls/link.js:691
 msgid "{0} is enabled"
-msgstr "{0} est activé"
+msgstr ""
 
 #. Added by add_missing_js_translations.py (direct)
 #: frappe/public/js/frappe/form/controls/link.js:744
 msgid "{0} is not a descendant of {1}"
-msgstr "{0} n’est pas un descendant de {1}"
+msgstr ""
 
 #. Added by add_missing_js_translations.py (direct)
 #: frappe/public/js/frappe/form/controls/link.js:746
 msgid "{0} is not an ancestor of {1}"
-msgstr "{0} n’est pas un ancêtre de {1}"
+msgstr ""
 
 #. Added by add_missing_js_translations.py (direct)
 #: frappe/public/js/frappe/form/controls/link.js:714
 msgid "{0} is on or after {1}"
-msgstr "{0} est supérieur ou égal à {1}"
+msgstr ""
 
 #. Added by add_missing_js_translations.py (direct)
 #: frappe/public/js/frappe/form/controls/link.js:719
 msgid "{0} is on or before {1}"
-msgstr "{0} est inférieur ou égal à {1}"
+msgstr ""
 
 #. Added by add_missing_js_translations.py (direct)
 #: frappe/public/js/frappe/form/controls/link.js:729
 msgid "{0} is {1}"
-msgstr "{0} est {1}"
+msgstr ""
 
 #. Added by add_missing_js_translations.py (direct)
 #: frappe/public/js/frappe/views/reports/report_view.js:491
 msgid "{0} of {1} records match (filtered on visible rows only)"
-msgstr "{0} enregistrements sur {1} correspondent (filtrés uniquement sur les lignes visibles)"
+msgstr ""
 
 #. Added by add_missing_js_translations.py (direct)
 #: frappe/public/js/frappe/form/footer/form_timeline.js:420
 msgid "{0} removed attachment {1}"
-msgstr "{0} a supprimé la pièce jointe {1}"
+msgstr ""
 
 #. Added by add_missing_js_translations.py (direct)
 #: frappe/public/js/frappe/form/linked_with.js:94
 msgid "{0} restricted document"
-msgstr "{0} document restreint"
+msgstr ""
 
 #. Added by add_missing_js_translations.py (direct)
 #: frappe/public/js/frappe/form/linked_with.js:94
 msgid "{0} restricted documents"
-msgstr "{0} documents restreints"
+msgstr ""
 
 #. Added by add_missing_js_translations.py (direct)
 #: frappe/public/js/frappe/form/footer/version_timeline_content_builder.js:305
 msgid "{0} rows from {1}"
-msgstr "{0} lignes de {1}"
+msgstr ""
 
 #. Added by add_missing_js_translations.py (direct)
 #: frappe/public/js/frappe/form/footer/version_timeline_content_builder.js:260
 msgid "{0} rows to {1}"
-msgstr "{0} lignes ajoutées à {1}"
+msgstr ""
 
 #. Added by add_missing_js_translations.py (direct)
 #: frappe/public/js/frappe/form/footer/version_timeline_content_builder.js:41
 msgid "{0} submitted this document {1}"
-msgstr "{0} a validé ce document {1}"
+msgstr ""

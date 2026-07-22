@@ -86483,5 +86483,4771 @@
       "upload files → charger des fichiers"
     ],
     "confidence": "high"
+  },
+  "17579f1ed7de52222386": {
+    "msgid": "1 row from {0}",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "old_translations": {
+      "msgstr": ""
+    },
+    "comments": [
+      "#. Added by add_missing_js_translations.py (direct)",
+      "#: frappe/public/js/frappe/form/footer/version_timeline_content_builder.js:326"
+    ],
+    "references": [
+      "frappe/public/js/frappe/form/footer/version_timeline_content_builder.js:326"
+    ],
+    "id": "17579f1ed7de52222386",
+    "translations": [
+      {
+        "field": "msgstr",
+        "value": "1 ligne supprimée de {0}"
+      }
+    ],
+    "status": "translated",
+    "explanation": "Dans la chronologie des versions, « from » décrit la ligne supprimée de la table ; le placeholder {0} est conservé exactement.",
+    "glossary_terms": [
+      "1 row from {0} → 1 ligne supprimée de {0}",
+      "Row → Ligne",
+      "From → De"
+    ],
+    "confidence": "high"
+  },
+  "232812878333a65dc145": {
+    "msgid": "1 row to {0}",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "old_translations": {
+      "msgstr": ""
+    },
+    "comments": [
+      "#. Added by add_missing_js_translations.py (direct)",
+      "#: frappe/public/js/frappe/form/footer/version_timeline_content_builder.js:281"
+    ],
+    "references": [
+      "frappe/public/js/frappe/form/footer/version_timeline_content_builder.js:281"
+    ],
+    "id": "232812878333a65dc145",
+    "translations": [
+      {
+        "field": "msgstr",
+        "value": "1 ligne ajoutée à {0}"
+      }
+    ],
+    "status": "translated",
+    "explanation": "Dans la chronologie des versions, la formulation indique l’ajout d’une ligne à la table ; le placeholder {0} est conservé exactement.",
+    "glossary_terms": [
+      "1 row to {0} → 1 ligne ajoutée à {0}",
+      "Row → Ligne",
+      "To → À"
+    ],
+    "confidence": "high"
+  },
+  "fdd82fd6f6bf479f5555": {
+    "msgid": "<li class=\"search-sidebar-item standard-sidebar-item list-link\" data-category=\"{0}\">",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "old_translations": {
+      "msgstr": ""
+    },
+    "comments": [
+      "#. Added by add_missing_js_translations.py (indirect via sidebar_item_html)",
+      "#: frappe/public/js/frappe/ui/toolbar/search.js:239"
+    ],
+    "references": [
+      "frappe/public/js/frappe/ui/toolbar/search.js:239"
+    ],
+    "id": "fdd82fd6f6bf479f5555",
+    "translations": [
+      {
+        "field": "msgstr",
+        "value": "<li class=\"search-sidebar-item standard-sidebar-item list-link\" data-category=\"{0}\">"
+      }
+    ],
+    "status": "translated",
+    "explanation": "Il s’agit d’un gabarit HTML sans texte anglais visible à traduire ; les balises, attributs et le placeholder {0} sont conservés exactement.",
+    "glossary_terms": [
+      "{0} → {0}"
+    ],
+    "confidence": "high"
+  },
+  "e7721af80e10013a03f9": {
+    "msgid": "Add CSS",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "old_translations": {
+      "msgstr": ""
+    },
+    "comments": [
+      "#. Added by add_missing_js_translations.py (direct)",
+      "#: frappe/public/js/frappe/views/communication.js:196"
+    ],
+    "references": [
+      "frappe/public/js/frappe/views/communication.js:196"
+    ],
+    "id": "e7721af80e10013a03f9",
+    "translations": [
+      {
+        "field": "msgstr",
+        "value": "Ajouter CSS"
+      }
+    ],
+    "status": "translated",
+    "explanation": "Dans le formulaire de communication, « Add CSS » est un libellé d’action ; le bouton emploie l’infinitif « Ajouter » et CSS reste inchangé.",
+    "glossary_terms": [
+      "Add → Ajouter",
+      "CSS → CSS"
+    ],
+    "confidence": "high"
+  },
+  "05d365d00bf6212cb65a": {
+    "msgid": "Add Item Below",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "old_translations": {
+      "msgstr": ""
+    },
+    "comments": [
+      "#. Added by add_missing_js_translations.py (indirect via label)",
+      "#: frappe/public/js/frappe/ui/sidebar/sidebar_item.js:126"
+    ],
+    "references": [
+      "frappe/public/js/frappe/ui/sidebar/sidebar_item.js:126"
+    ],
+    "id": "05d365d00bf6212cb65a",
+    "translations": [
+      {
+        "field": "msgstr",
+        "value": "Ajouter un élément en dessous"
+      }
+    ],
+    "status": "translated",
+    "explanation": "Le contexte de la barre latérale précise l’ajout d’un élément sous l’élément courant ; la formulation suit le bouton à l’infinitif.",
+    "glossary_terms": [
+      "Add → Ajouter",
+      "Add a row below the current row → Ajouter une ligne sous la ligne actuelle"
+    ],
+    "confidence": "high"
+  },
+  "1cbac14714d1e56a8cf5": {
+    "msgid": "Add Nested Items",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "old_translations": {
+      "msgstr": ""
+    },
+    "comments": [
+      "#. Added by add_missing_js_translations.py (indirect via label)",
+      "#: frappe/public/js/frappe/ui/sidebar/sidebar_item.js:313"
+    ],
+    "references": [
+      "frappe/public/js/frappe/ui/sidebar/sidebar_item.js:313"
+    ],
+    "id": "1cbac14714d1e56a8cf5",
+    "translations": [
+      {
+        "field": "msgstr",
+        "value": "Ajouter des éléments imbriqués"
+      }
+    ],
+    "status": "translated",
+    "explanation": "Dans la barre latérale, « Nested Items » désigne des éléments hiérarchiquement contenus ; « éléments imbriqués » rend ce sens naturellement.",
+    "glossary_terms": [
+      "Add → Ajouter",
+      "Items → Articles"
+    ],
+    "confidence": "high"
+  },
+  "b8e43661f526e683ac4c": {
+    "msgid": "Add New",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "old_translations": {
+      "msgstr": ""
+    },
+    "comments": [
+      "#. Added by add_missing_js_translations.py (direct)",
+      "#: frappe/public/js/frappe/widgets/quick_list_widget.js:32"
+    ],
+    "references": [
+      "frappe/public/js/frappe/widgets/quick_list_widget.js:32"
+    ],
+    "id": "b8e43661f526e683ac4c",
+    "translations": [
+      {
+        "field": "msgstr",
+        "value": "Ajouter"
+      }
+    ],
+    "status": "translated",
+    "explanation": "Dans le titre généré avant le type de document, « Add New » fonctionne comme une action générale ; « Ajouter » évite une répétition maladroite avec le type affiché ensuite.",
+    "glossary_terms": [
+      "Add → Ajouter",
+      "New → Nouveau"
+    ],
+    "confidence": "high"
+  },
+  "9606192d7de12bfaf099": {
+    "msgid": "Add multiple",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "old_translations": {
+      "msgstr": ""
+    },
+    "comments": [
+      "#. Added by add_missing_js_translations.py (direct)",
+      "#: frappe/public/js/frappe/form/grid.js:103"
+    ],
+    "references": [
+      "frappe/public/js/frappe/form/grid.js:103"
+    ],
+    "id": "9606192d7de12bfaf099",
+    "translations": [
+      {
+        "field": "msgstr",
+        "value": "Ajouter plusieurs"
+      }
+    ],
+    "status": "translated",
+    "explanation": "Il s’agit du bouton de la grille permettant d’ajouter plusieurs lignes ; la traduction reprend le libellé d’action à l’infinitif.",
+    "glossary_terms": [
+      "Add Multiple → Ajouter plusieurs",
+      "Add → Ajouter"
+    ],
+    "confidence": "high"
+  },
+  "4dd0e92cc2bfccc12e34": {
+    "msgid": "Add row",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "old_translations": {
+      "msgstr": ""
+    },
+    "comments": [
+      "#. Added by add_missing_js_translations.py (direct)",
+      "#: frappe/public/js/frappe/form/grid.js:100"
+    ],
+    "references": [
+      "frappe/public/js/frappe/form/grid.js:100"
+    ],
+    "id": "4dd0e92cc2bfccc12e34",
+    "translations": [
+      {
+        "field": "msgstr",
+        "value": "Ajouter une ligne"
+      }
+    ],
+    "status": "translated",
+    "explanation": "Dans la grille, le bouton ajoute une ligne ; la traduction suit directement le terme métier « Row → Ligne » et l’infinitif requis pour les boutons.",
+    "glossary_terms": [
+      "Add Row → Ajouter une ligne",
+      "Row → Ligne",
+      "Add → Ajouter"
+    ],
+    "confidence": "high"
+  },
+  "0c9335373aedf8331636": {
+    "msgid": "Add to Desktop",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "old_translations": {
+      "msgstr": ""
+    },
+    "comments": [
+      "#. Added by add_missing_js_translations.py (direct)",
+      "#: frappe/desk/doctype/workspace/workspace.js:49"
+    ],
+    "references": [
+      "frappe/desk/doctype/workspace/workspace.js:49"
+    ],
+    "id": "0c9335373aedf8331636",
+    "translations": [
+      {
+        "field": "msgstr",
+        "value": "Ajouter au bureau"
+      }
+    ],
+    "status": "translated",
+    "explanation": "Dans le contexte de l’espace de travail, « Desktop » correspond au bureau de l’application ; le bouton est formulé à l’infinitif.",
+    "glossary_terms": [
+      "Add → Ajouter",
+      "Desktop → Bureau",
+      "To → À"
+    ],
+    "confidence": "high"
+  },
+  "24be365eaef1877c5d86": {
+    "msgid": "Add/Update Filter",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "old_translations": {
+      "msgstr": ""
+    },
+    "comments": [
+      "#. Added by add_missing_js_translations.py (direct)",
+      "#: frappe/public/js/frappe/widgets/quick_list_widget.js:67"
+    ],
+    "references": [
+      "frappe/public/js/frappe/widgets/quick_list_widget.js:67"
+    ],
+    "id": "24be365eaef1877c5d86",
+    "translations": [
+      {
+        "field": "msgstr",
+        "value": "Ajouter/mettre à jour le filtre"
+      }
+    ],
+    "status": "translated",
+    "explanation": "Le libellé du contrôle de filtrage combine les deux actions « Add » et « Update » ; les deux verbes sont rendus à l’infinitif et « Filter » par « filtre ».",
+    "glossary_terms": [
+      "Add → Ajouter",
+      "Update → Mettre à jour",
+      "Filter → Filtre"
+    ],
+    "confidence": "high"
+  },
+  "702a036c6b1b15e895a2": {
+    "msgid": "All Results",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "old_translations": {
+      "msgstr": ""
+    },
+    "comments": [
+      "#. Added by add_missing_js_translations.py (direct)",
+      "#: frappe/public/js/frappe/ui/toolbar/search.js:259"
+    ],
+    "references": [
+      "frappe/public/js/frappe/ui/toolbar/search.js:259"
+    ],
+    "id": "702a036c6b1b15e895a2",
+    "translations": [
+      {
+        "field": "msgstr",
+        "value": "Tous les résultats"
+      }
+    ],
+    "status": "translated",
+    "explanation": "Dans la barre latérale de recherche, ce libellé regroupe tous les ensembles de résultats ; l’accord au pluriel est appliqué à « résultats ».",
+    "glossary_terms": [
+      "All → Tous",
+      "Result → Résultat"
+    ],
+    "confidence": "high"
+  },
+  "3d363b07952f4f3b6f8b": {
+    "msgid": "Already amended as {0}",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "old_translations": {
+      "msgstr": ""
+    },
+    "comments": [
+      "#. Added by add_missing_js_translations.py (direct)",
+      "#: frappe/public/js/frappe/form/toolbar.js:741"
+    ],
+    "references": [
+      "frappe/public/js/frappe/form/toolbar.js:741"
+    ],
+    "id": "3d363b07952f4f3b6f8b",
+    "translations": [
+      {
+        "field": "msgstr",
+        "value": "Déjà modifié en {0}"
+      }
+    ],
+    "status": "translated",
+    "explanation": "Dans le contexte de la barre d’outils, le message indique qu’une nouvelle version du document existe déjà ; le placeholder {0} est conservé exactement.",
+    "glossary_terms": [
+      "amend → Nouv. version",
+      "{0} → {0}"
+    ],
+    "confidence": "medium"
+  },
+  "630726002ad300f60d42": {
+    "msgid": "Apply Module Export Filter",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "old_translations": {
+      "msgstr": ""
+    },
+    "comments": [
+      "#. Added by add_missing_js_translations.py (direct)",
+      "#: frappe/custom/doctype/customize_form/customize_form.js:284"
+    ],
+    "references": [
+      "frappe/custom/doctype/customize_form/customize_form.js:284"
+    ],
+    "id": "630726002ad300f60d42",
+    "translations": [
+      {
+        "field": "msgstr",
+        "value": "Appliquer le filtre d’exportation du module"
+      }
+    ],
+    "status": "translated",
+    "explanation": "Il s’agit du libellé d’un champ de personnalisation ; le verbe est à l’infinitif conformément à la convention des actions et « Module » et « Filter » suivent le glossaire.",
+    "glossary_terms": [
+      "Apply → Appliquer",
+      "Module → Module",
+      "Filter → Filtre",
+      "Export → Exporter"
+    ],
+    "confidence": "high"
+  },
+  "d372b006ad98e7846a04": {
+    "msgid": "Are you sure you want to delete all {0} rows?",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "old_translations": {
+      "msgstr": ""
+    },
+    "comments": [
+      "#. Added by add_missing_js_translations.py (direct)",
+      "#: frappe/public/js/frappe/form/grid.js:319"
+    ],
+    "references": [
+      "frappe/public/js/frappe/form/grid.js:319"
+    ],
+    "id": "d372b006ad98e7846a04",
+    "translations": [
+      {
+        "field": "msgstr",
+        "value": "Voulez-vous vraiment supprimer les {0} lignes ?"
+      }
+    ],
+    "status": "translated",
+    "explanation": "Il s’agit d’une boîte de confirmation avant la suppression de toutes les lignes d’une grille ; le placeholder {0} est conservé exactement et la typographie française de la question est appliquée.",
+    "glossary_terms": [
+      "Are you sure you want to delete all rows? → Voulez-vous vraiment supprimer toutes les lignes?",
+      "{0} → {0}"
+    ],
+    "confidence": "high"
+  },
+  "03a72eeb2ab78dabf03a": {
+    "msgid": "Are you sure you want to log out?",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "old_translations": {
+      "msgstr": ""
+    },
+    "comments": [
+      "#. Added by add_missing_js_translations.py (direct)",
+      "#: frappe/public/js/frappe/desk.js:381"
+    ],
+    "references": [
+      "frappe/public/js/frappe/desk.js:381"
+    ],
+    "id": "03a72eeb2ab78dabf03a",
+    "translations": [
+      {
+        "field": "msgstr",
+        "value": "Voulez-vous vraiment vous déconnecter ?"
+      }
+    ],
+    "status": "translated",
+    "explanation": "Le message est affiché dans une boîte de confirmation lors de la déconnexion de l’utilisateur ; la formulation reprend le modèle interrogatif fourni dans le glossaire.",
+    "glossary_terms": [
+      "Are you sure you want to {0}? → Voulez-vous vraiment {0} ?"
+    ],
+    "confidence": "high"
+  },
+  "ff29c0a9b77f05495fb5": {
+    "msgid": "Chart Preview",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "old_translations": {
+      "msgstr": ""
+    },
+    "comments": [
+      "#. Added by add_missing_js_translations.py (indirect via label)",
+      "#: frappe/public/js/frappe/views/reports/query_report.js:1307 frappe/public/js/frappe/views/reports/query_report.js:1311"
+    ],
+    "references": [
+      "frappe/public/js/frappe/views/reports/query_report.js:1307",
+      "frappe/public/js/frappe/views/reports/query_report.js:1311"
+    ],
+    "id": "ff29c0a9b77f05495fb5",
+    "translations": [
+      {
+        "field": "msgstr",
+        "value": "Aperçu du graphique"
+      }
+    ],
+    "status": "translated",
+    "explanation": "Le libellé concerne la section HTML et le champ affichant l’aperçu d’un graphique ; « Preview » et « Chart » suivent directement le glossaire.",
+    "glossary_terms": [
+      "Preview → Aperçu",
+      "Chart → Graphique"
+    ],
+    "confidence": "high"
+  },
+  "dfb07c6321d5255569c7": {
+    "msgid": "Clear Link",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "old_translations": {
+      "msgstr": ""
+    },
+    "comments": [
+      "#. Added by add_missing_js_translations.py (direct)",
+      "#: frappe/public/js/frappe/form/controls/link.js:17"
+    ],
+    "references": [
+      "frappe/public/js/frappe/form/controls/link.js:17"
+    ],
+    "id": "dfb07c6321d5255569c7",
+    "translations": [
+      {
+        "field": "msgstr",
+        "value": "Effacer le lien"
+      }
+    ],
+    "status": "translated",
+    "explanation": "Il s’agit du titre d’un bouton permettant de supprimer la valeur d’un champ de type lien ; le verbe d’action est à l’infinitif et les termes suivent le glossaire.",
+    "glossary_terms": [
+      "clear → effacer",
+      "Link → Lien"
+    ],
+    "confidence": "high"
+  },
+  "0debaed7ac02280ed852": {
+    "msgid": "Clear all filters",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "old_translations": {
+      "msgstr": ""
+    },
+    "comments": [
+      "#. Added by add_missing_js_translations.py (direct)",
+      "#: frappe/public/js/frappe/list/base_list.js:1376"
+    ],
+    "references": [
+      "frappe/public/js/frappe/list/base_list.js:1376"
+    ],
+    "id": "0debaed7ac02280ed852",
+    "translations": [
+      {
+        "field": "msgstr",
+        "value": "Effacer tous les filtres"
+      }
+    ],
+    "status": "translated",
+    "explanation": "Il s’agit du titre du bouton de la liste permettant de réinitialiser l’ensemble des filtres ; « Clear Filters » est rendu par « Effacer les filtres » et « All » par « tous ».",
+    "glossary_terms": [
+      "Clear Filters → Effacer les filtres",
+      "All → Tous",
+      "Filters → Filtres"
+    ],
+    "confidence": "high"
+  },
+  "6b74da08f25f3037bdab": {
+    "msgid": "Click on {0} to edit",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "old_translations": {
+      "msgstr": ""
+    },
+    "comments": [
+      "#. Added by add_missing_js_translations.py (direct)",
+      "#: frappe/public/js/frappe/views/workspace/workspace.js:721"
+    ],
+    "references": [
+      "frappe/public/js/frappe/views/workspace/workspace.js:721"
+    ],
+    "id": "6b74da08f25f3037bdab",
+    "translations": [
+      {
+        "field": "msgstr",
+        "value": "Cliquez sur {0} pour modifier"
+      }
+    ],
+    "status": "translated",
+    "explanation": "Le texte d’aide de l’espace de travail indique comment modifier un élément ; le placeholder d’icône {0} est conservé exactement et le verbe est rendu par « modifier ».",
+    "glossary_terms": [
+      "Click on {0} to edit → Cliquez sur {0} pour modifier",
+      "{0} → {0}"
+    ],
+    "confidence": "high"
+  },
+  "2e760fd5e7b4c1f76f09": {
+    "msgid": "Copy Apps Version",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "old_translations": {
+      "msgstr": ""
+    },
+    "comments": [
+      "#. Added by add_missing_js_translations.py (direct)",
+      "#: frappe/public/js/frappe/ui/toolbar/about.js:69"
+    ],
+    "references": [
+      "frappe/public/js/frappe/ui/toolbar/about.js:69"
+    ],
+    "id": "2e760fd5e7b4c1f76f09",
+    "translations": [
+      {
+        "field": "msgstr",
+        "value": "Copier la version des applications"
+      }
+    ],
+    "status": "translated",
+    "explanation": "Il s’agit du titre d’un bouton qui copie les informations de version des applications ; l’action est formulée à l’infinitif et « Apps » et « Version » suivent le glossaire.",
+    "glossary_terms": [
+      "Apps → Applications",
+      "Version → Version"
+    ],
+    "confidence": "high"
+  },
+  "12b1b7215227dd1b6ef5": {
+    "msgid": "Copy File URL",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "old_translations": {
+      "msgstr": ""
+    },
+    "comments": [
+      "#. Added by add_missing_js_translations.py (direct)",
+      "#: frappe/public/js/frappe/views/file/file_view.js:302"
+    ],
+    "references": [
+      "frappe/public/js/frappe/views/file/file_view.js:302"
+    ],
+    "id": "12b1b7215227dd1b6ef5",
+    "translations": [
+      {
+        "field": "msgstr",
+        "value": "Copier l’URL du fichier"
+      }
+    ],
+    "status": "translated",
+    "explanation": "Le titre est celui d’un bouton permettant de copier l’adresse du fichier ; « File URL » est repris selon le glossaire et l’action est à l’infinitif.",
+    "glossary_terms": [
+      "File URL → URL du fichier",
+      "URL → URL",
+      "File → Fichier"
+    ],
+    "confidence": "high"
+  },
+  "1e09556564b96d34a073": {
+    "msgid": "Create a new document",
+    "msgid_plural": null,
+    "msgctxt": "Description of a list view shortcut",
+    "old_translations": {
+      "msgstr": ""
+    },
+    "comments": [
+      "#. Added by add_missing_js_translations.py (direct)",
+      "#: frappe/public/js/frappe/list/list_view.js:312"
+    ],
+    "references": [
+      "frappe/public/js/frappe/list/list_view.js:312"
+    ],
+    "id": "1e09556564b96d34a073",
+    "translations": [
+      {
+        "field": "msgstr",
+        "value": "Créer un nouveau document"
+      }
+    ],
+    "status": "translated",
+    "explanation": "Dans le contexte de la description d’un raccourci de vue de liste, le texte décrit l’action de création d’un document ; le verbe est à l’infinitif comme pour les actions.",
+    "glossary_terms": [
+      "Create a new record → Créer un nouvel enregistrement",
+      "Create a new ... → Créer un nouveau…"
+    ],
+    "confidence": "high"
+  },
+  "71df3ffcda14d93fa49d": {
+    "msgid": "Created By You",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "old_translations": {
+      "msgstr": ""
+    },
+    "comments": [
+      "#. Added by add_missing_js_translations.py (direct)",
+      "#: frappe/public/js/frappe/form/sidebar/form_sidebar.js:174"
+    ],
+    "references": [
+      "frappe/public/js/frappe/form/sidebar/form_sidebar.js:174"
+    ],
+    "id": "71df3ffcda14d93fa49d",
+    "translations": [
+      {
+        "field": "msgstr",
+        "value": "Établi par vous"
+      }
+    ],
+    "status": "translated",
+    "explanation": "Ce libellé de la barre latérale indique le créateur du document ; la correspondance du glossaire « Created By » → « Établi par » est conservée, avec « You » traduit par « vous ».",
+    "glossary_terms": [
+      "Created By → Établi par",
+      "You → Vous"
+    ],
+    "confidence": "high"
+  },
+  "fce18d35daae1ceedcd6": {
+    "msgid": "Created By {0}",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "old_translations": {
+      "msgstr": ""
+    },
+    "comments": [
+      "#. Added by add_missing_js_translations.py (direct)",
+      "#: frappe/public/js/frappe/form/sidebar/form_sidebar.js:175"
+    ],
+    "references": [
+      "frappe/public/js/frappe/form/sidebar/form_sidebar.js:175"
+    ],
+    "id": "fce18d35daae1ceedcd6",
+    "translations": [
+      {
+        "field": "msgstr",
+        "value": "Établi par {0}"
+      }
+    ],
+    "status": "translated",
+    "explanation": "Dans le contexte de la barre latérale du formulaire, « Created By » est rendu par « Établi par » conformément au glossaire, en conservant exactement le placeholder {0}.",
+    "glossary_terms": [
+      "Created By → Établi par",
+      "{0} → {0}"
+    ],
+    "confidence": "high"
+  },
+  "5d02dfb6b55a5e0665a7": {
+    "msgid": "Delete Block",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "old_translations": {
+      "msgstr": ""
+    },
+    "comments": [
+      "#. Added by add_missing_js_translations.py (indirect via title)",
+      "#: frappe/public/js/frappe/views/workspace/blocks/block.js:161"
+    ],
+    "references": [
+      "frappe/public/js/frappe/views/workspace/blocks/block.js:161"
+    ],
+    "id": "5d02dfb6b55a5e0665a7",
+    "translations": [
+      {
+        "field": "msgstr",
+        "value": "Supprimer le bloc"
+      }
+    ],
+    "status": "translated",
+    "explanation": "Le libellé du titre d’action concerne la suppression d’un bloc d’espace de travail ; le bouton est formulé à l’infinitif.",
+    "glossary_terms": [
+      "Delete → Supprimer",
+      "Workspace Custom Block → Bloc personnalisé de l'espace de travail"
+    ],
+    "confidence": "high"
+  },
+  "8a711002ae86102c2493": {
+    "msgid": "Delete all",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "old_translations": {
+      "msgstr": ""
+    },
+    "comments": [
+      "#. Added by add_missing_js_translations.py (direct)",
+      "#: frappe/public/js/frappe/form/grid.js:92"
+    ],
+    "references": [
+      "frappe/public/js/frappe/form/grid.js:92"
+    ],
+    "id": "8a711002ae86102c2493",
+    "translations": [
+      {
+        "field": "msgstr",
+        "value": "Tout supprimer"
+      }
+    ],
+    "status": "translated",
+    "explanation": "Ce libellé est celui du bouton de suppression de toutes les lignes ; « Tout supprimer » suit le terme du glossaire « Delete All » et l’infinitif requis pour les boutons.",
+    "glossary_terms": [
+      "Delete All → Tout supprimer",
+      "delete → supprimer"
+    ],
+    "confidence": "high"
+  },
+  "907d435db42a062c8087": {
+    "msgid": "Delete all {0} rows",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "old_translations": {
+      "msgstr": ""
+    },
+    "comments": [
+      "#. Added by add_missing_js_translations.py (direct)",
+      "#: frappe/public/js/frappe/form/grid.js:367"
+    ],
+    "references": [
+      "frappe/public/js/frappe/form/grid.js:367"
+    ],
+    "id": "907d435db42a062c8087",
+    "translations": [
+      {
+        "field": "msgstr",
+        "value": "Supprimer toutes les {0} lignes"
+      }
+    ],
+    "status": "translated",
+    "explanation": "Dans la grille, le bouton supprime toutes les lignes indiquées par {0}. Le placeholder est conservé exactement et « ligne » suit le glossaire.",
+    "glossary_terms": [
+      "Delete → Supprimer",
+      "Row → Ligne",
+      "{0} → {0}"
+    ],
+    "confidence": "high"
+  },
+  "a558721fe7583ff7e002": {
+    "msgid": "Delete row",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "old_translations": {
+      "msgstr": ""
+    },
+    "comments": [
+      "#. Added by add_missing_js_translations.py (direct)",
+      "#: frappe/public/js/frappe/form/grid.js:237"
+    ],
+    "references": [
+      "frappe/public/js/frappe/form/grid.js:237"
+    ],
+    "id": "a558721fe7583ff7e002",
+    "translations": [
+      {
+        "field": "msgstr",
+        "value": "Supprimer la ligne"
+      }
+    ],
+    "status": "translated",
+    "explanation": "Il s’agit du bouton de suppression d’une seule ligne dans la grille ; la formulation emploie l’infinitif et le terme « Ligne » du glossaire.",
+    "glossary_terms": [
+      "Delete → Supprimer",
+      "Row → Ligne"
+    ],
+    "confidence": "high"
+  },
+  "6cfc39c5e841a1060679": {
+    "msgid": "Delete {0} rows",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "old_translations": {
+      "msgstr": ""
+    },
+    "comments": [
+      "#. Added by add_missing_js_translations.py (direct)",
+      "#: frappe/public/js/frappe/form/grid.js:240"
+    ],
+    "references": [
+      "frappe/public/js/frappe/form/grid.js:240"
+    ],
+    "id": "6cfc39c5e841a1060679",
+    "translations": [
+      {
+        "field": "msgstr",
+        "value": "Supprimer {0} lignes"
+      }
+    ],
+    "status": "translated",
+    "explanation": "Le bouton de la grille supprime plusieurs lignes sélectionnées ; le placeholder {0} est conservé exactement et le verbe est à l’infinitif.",
+    "glossary_terms": [
+      "Delete → Supprimer",
+      "Row → Ligne",
+      "{0} → {0}"
+    ],
+    "confidence": "high"
+  },
+  "b96ada5597477d695beb": {
+    "msgid": "Documentation",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "old_translations": {
+      "msgstr": ""
+    },
+    "comments": [
+      "#. Added by add_missing_js_translations.py (direct)",
+      "#: frappe/public/js/frappe/form/controls/base_input.js:232"
+    ],
+    "references": [
+      "frappe/public/js/frappe/form/controls/base_input.js:232"
+    ],
+    "id": "b96ada5597477d695beb",
+    "translations": [
+      {
+        "field": "msgstr",
+        "value": "Documentation"
+      }
+    ],
+    "status": "translated",
+    "explanation": "Le texte apparaît dans l’attribut title d’un lien d’aide ; « Documentation » reprend directement le terme métier établi dans le glossaire.",
+    "glossary_terms": [
+      "Documentation → Documentation"
+    ],
+    "confidence": "high"
+  },
+  "3d51c372b6a3b1352a32": {
+    "msgid": "Duplicate row",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "old_translations": {
+      "msgstr": ""
+    },
+    "comments": [
+      "#. Added by add_missing_js_translations.py (direct)",
+      "#: frappe/public/js/frappe/form/grid.js:238"
+    ],
+    "references": [
+      "frappe/public/js/frappe/form/grid.js:238"
+    ],
+    "id": "3d51c372b6a3b1352a32",
+    "translations": [
+      {
+        "field": "msgstr",
+        "value": "Dupliquer la ligne"
+      }
+    ],
+    "status": "translated",
+    "explanation": "Il s’agit du bouton de duplication d’une seule ligne dans la grille ; la traduction suit le glossaire « Duplicate Row » et conserve l’infinitif d’action.",
+    "glossary_terms": [
+      "Duplicate Row → Dupliquer la ligne",
+      "Duplicate → Dupliquer",
+      "Row → Ligne"
+    ],
+    "confidence": "high"
+  },
+  "2ca16bf37a0cf40b334c": {
+    "msgid": "Duplicate rows",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "old_translations": {
+      "msgstr": ""
+    },
+    "comments": [
+      "#. Added by add_missing_js_translations.py (direct)",
+      "#: frappe/public/js/frappe/form/grid.js:96"
+    ],
+    "references": [
+      "frappe/public/js/frappe/form/grid.js:96"
+    ],
+    "id": "2ca16bf37a0cf40b334c",
+    "translations": [
+      {
+        "field": "msgstr",
+        "value": "Dupliquer les lignes"
+      }
+    ],
+    "status": "translated",
+    "explanation": "Ce libellé désigne l’action de duplication de plusieurs lignes dans la grille ; le verbe est à l’infinitif et « lignes » reprend le terme du glossaire.",
+    "glossary_terms": [
+      "Duplicate → Dupliquer",
+      "Row → Ligne"
+    ],
+    "confidence": "high"
+  },
+  "1c9ee3a345e0f790059d": {
+    "msgid": "Duplicate {0} rows",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "old_translations": {
+      "msgstr": ""
+    },
+    "comments": [
+      "#. Added by add_missing_js_translations.py (direct)",
+      "#: frappe/public/js/frappe/form/grid.js:241"
+    ],
+    "references": [
+      "frappe/public/js/frappe/form/grid.js:241"
+    ],
+    "id": "1c9ee3a345e0f790059d",
+    "translations": [
+      {
+        "field": "msgstr",
+        "value": "Dupliquer {0} lignes"
+      }
+    ],
+    "status": "translated",
+    "explanation": "Le bouton duplique le nombre de lignes indiqué par {0}. Le placeholder est conservé exactement et le verbe d’action est à l’infinitif.",
+    "glossary_terms": [
+      "Duplicate → Dupliquer",
+      "Row → Ligne",
+      "{0} → {0}"
+    ],
+    "confidence": "high"
+  },
+  "a658033051f9cd235d83": {
+    "msgid": "Edit Filter",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "old_translations": {
+      "msgstr": ""
+    },
+    "comments": [
+      "#. Added by add_missing_js_translations.py (direct)",
+      "#: frappe/public/js/frappe/ui/filters/filter.js:401"
+    ],
+    "references": [
+      "frappe/public/js/frappe/ui/filters/filter.js:401"
+    ],
+    "id": "a658033051f9cd235d83",
+    "translations": [
+      {
+        "field": "msgstr",
+        "value": "Modifier le filtre"
+      }
+    ],
+    "status": "translated",
+    "explanation": "Dans le composant de filtres, ce title permet de modifier le filtre courant ; « Modifier » et « Filtre » suivent le glossaire.",
+    "glossary_terms": [
+      "Edit → Modifier",
+      "Filter → Filtre"
+    ],
+    "confidence": "high"
+  },
+  "8d42e6ce625443064520": {
+    "msgid": "Edit Item",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "old_translations": {
+      "msgstr": ""
+    },
+    "comments": [
+      "#. Added by add_missing_js_translations.py (indirect via label)",
+      "#: frappe/public/js/frappe/ui/sidebar/sidebar_item.js:119 frappe/public/js/frappe/ui/sidebar/sidebar_item.js:305"
+    ],
+    "references": [
+      "frappe/public/js/frappe/ui/sidebar/sidebar_item.js:119",
+      "frappe/public/js/frappe/ui/sidebar/sidebar_item.js:305"
+    ],
+    "id": "8d42e6ce625443064520",
+    "translations": [
+      {
+        "field": "msgstr",
+        "value": "Modifier l’élément"
+      }
+    ],
+    "status": "translated",
+    "explanation": "Le libellé est utilisé pour une action d’édition d’un élément de la barre latérale ; « Modifier » suit le glossaire et « élément » correspond au vocabulaire de la barre latérale.",
+    "glossary_terms": [
+      "Edit → Modifier",
+      "Workspace Sidebar Item → Élément de la barre latérale de l’espace de travail"
+    ],
+    "confidence": "high"
+  },
+  "0f13f53c7e28c8c7d915": {
+    "msgid": "Edit Section",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "old_translations": {
+      "msgstr": ""
+    },
+    "comments": [
+      "#. Added by add_missing_js_translations.py (direct)",
+      "#: frappe/printing/page/print_format_builder/print_format_builder.js:414"
+    ],
+    "references": [
+      "frappe/printing/page/print_format_builder/print_format_builder.js:414"
+    ],
+    "id": "0f13f53c7e28c8c7d915",
+    "translations": [
+      {
+        "field": "msgstr",
+        "value": "Modifier la section"
+      }
+    ],
+    "status": "translated",
+    "explanation": "Titre de boîte de dialogue dans le générateur de formats d’impression ; le bouton ou l’action est formulé à l’infinitif, conformément au glossaire « Edit » → « Modifier » et « Section » → « section ».",
+    "glossary_terms": [
+      "Edit → Modifier",
+      "Section → section"
+    ],
+    "confidence": "high"
+  },
+  "f3b0bb51ebbf36293605": {
+    "msgid": "Email Sent",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "old_translations": {
+      "msgstr": ""
+    },
+    "comments": [
+      "#. Added by add_missing_js_translations.py (direct)",
+      "#: frappe/public/js/frappe/views/communication.js:904"
+    ],
+    "references": [
+      "frappe/public/js/frappe/views/communication.js:904"
+    ],
+    "id": "f3b0bb51ebbf36293605",
+    "translations": [
+      {
+        "field": "msgstr",
+        "value": "Courriel envoyé"
+      }
+    ],
+    "status": "translated",
+    "explanation": "Message de confirmation affiché après l’envoi d’un courriel ; reprise des termes du glossaire « Email » → « Courriel » et « Sent » → « Envoyé ».",
+    "glossary_terms": [
+      "Email → Courriel",
+      "Sent → Envoyé"
+    ],
+    "confidence": "high"
+  },
+  "66a17f4ac247f061efdb": {
+    "msgid": "Email sending undone",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "old_translations": {
+      "msgstr": ""
+    },
+    "comments": [
+      "#. Added by add_missing_js_translations.py (direct)",
+      "#: frappe/public/js/frappe/views/communication.js:941"
+    ],
+    "references": [
+      "frappe/public/js/frappe/views/communication.js:941"
+    ],
+    "id": "66a17f4ac247f061efdb",
+    "translations": [
+      {
+        "field": "msgstr",
+        "value": "Envoi du courriel annulé"
+      }
+    ],
+    "status": "translated",
+    "explanation": "Alerte affichée après l’annulation de l’envoi d’un courriel ; la formulation décrit l’action annulée et suit « Email » → « Courriel » ainsi que « Undo » → « Annuler l'action ».",
+    "glossary_terms": [
+      "Email → Courriel",
+      "Undo → Annuler l'action"
+    ],
+    "confidence": "high"
+  },
+  "c741b65d5f79629fc77a": {
+    "msgid": "Expand Block",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "old_translations": {
+      "msgstr": ""
+    },
+    "comments": [
+      "#. Added by add_missing_js_translations.py (indirect via title)",
+      "#: frappe/public/js/frappe/views/workspace/blocks/block.js:167"
+    ],
+    "references": [
+      "frappe/public/js/frappe/views/workspace/blocks/block.js:167"
+    ],
+    "id": "c741b65d5f79629fc77a",
+    "translations": [
+      {
+        "field": "msgstr",
+        "value": "Développer le bloc"
+      }
+    ],
+    "status": "translated",
+    "explanation": "Infobulle associée à l’action d’agrandissement d’un bloc d’espace de travail ; reprise de « Expand » → « Développer » et de « Block » → « bloc ».",
+    "glossary_terms": [
+      "Expand → Développer",
+      "Workspace Custom Block → Bloc personnalisé de l'espace de travail"
+    ],
+    "confidence": "high"
+  },
+  "4518779079532e7b5512": {
+    "msgid": "Export Report: {0}",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "old_translations": {
+      "msgstr": ""
+    },
+    "comments": [
+      "#. Added by add_missing_js_translations.py (direct)",
+      "#: frappe/public/js/frappe/views/reports/report_utils.js:245"
+    ],
+    "references": [
+      "frappe/public/js/frappe/views/reports/report_utils.js:245"
+    ],
+    "id": "4518779079532e7b5512",
+    "translations": [
+      {
+        "field": "msgstr",
+        "value": "Exporter le rapport : {0}"
+      }
+    ],
+    "status": "translated",
+    "explanation": "Titre de la boîte de dialogue d’exportation d’un rapport ; le placeholder {0} est conservé exactement et le verbe d’action est à l’infinitif.",
+    "glossary_terms": [
+      "Export → Exporter",
+      "Report → Rapport",
+      "{0} → {0}"
+    ],
+    "confidence": "high"
+  },
+  "aefe5dbc701b218d6b6d": {
+    "msgid": "Export only customizations assigned to the selected module.<br><span class='text-muted'><strong>Note:</strong> You must set the <em>Module (for export)</em> field on Custom Field and Property Setter records before applying this filter.</span><p class='alert alert-warning'> <strong>Warning:</strong> Customizations from other modules will be excluded.</p>",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "old_translations": {
+      "msgstr": ""
+    },
+    "comments": [
+      "#. Added by add_missing_js_translations.py (direct)",
+      "#: frappe/custom/doctype/customize_form/customize_form.js:286"
+    ],
+    "references": [
+      "frappe/custom/doctype/customize_form/customize_form.js:286"
+    ],
+    "id": "aefe5dbc701b218d6b6d",
+    "translations": [
+      {
+        "field": "msgstr",
+        "value": "Exporter uniquement les personnalisations attribuées au module sélectionné.<br><span class='text-muted'><strong>Remarque :</strong> Vous devez définir le champ <em>Module (pour l’exportation)</em> dans les enregistrements Custom Field et Property Setter avant d’appliquer ce filtre.</span><p class='alert alert-warning'> <strong>Avertissement :</strong> Les personnalisations des autres modules seront exclues.</p>"
+      }
+    ],
+    "status": "translated",
+    "explanation": "Description du filtre d’exportation des personnalisations ; toutes les balises HTML, leurs attributs et l’espace après l’ouverture de <p> sont conservés exactement, tandis que « Note » et « Warning » sont rendus par les conventions françaises.",
+    "glossary_terms": [
+      "Export → Exporter",
+      "Note → Remarque",
+      "Warning → Avertissement",
+      "filter → filtre"
+    ],
+    "confidence": "high"
+  },
+  "2112cb3400cad86cab3d": {
+    "msgid": "Filtered by: {0}.",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "old_translations": {
+      "msgstr": ""
+    },
+    "comments": [
+      "#. Added by add_missing_js_translations.py (direct)",
+      "#: frappe/public/js/frappe/form/controls/link.js:759"
+    ],
+    "references": [
+      "frappe/public/js/frappe/form/controls/link.js:759"
+    ],
+    "id": "2112cb3400cad86cab3d",
+    "translations": [
+      {
+        "field": "msgstr",
+        "value": "Filtré par : {0}."
+      }
+    ],
+    "status": "translated",
+    "explanation": "Libellé généré dans la vue en liste pour résumer les filtres actifs ; le placeholder {0} et la ponctuation finale sont conservés, conformément à « Filtered By » → « Filtré par ».",
+    "glossary_terms": [
+      "Filtered By → Filtré par",
+      "{0} → {0}"
+    ],
+    "confidence": "high"
+  },
+  "17318318aa469da07224": {
+    "msgid": "First",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "old_translations": {
+      "msgstr": ""
+    },
+    "comments": [
+      "#. Added by add_missing_js_translations.py (direct)",
+      "#: frappe/public/js/frappe/form/grid_pagination.js:123"
+    ],
+    "references": [
+      "frappe/public/js/frappe/form/grid_pagination.js:123"
+    ],
+    "id": "17318318aa469da07224",
+    "translations": [
+      {
+        "field": "msgstr",
+        "value": "Première"
+      }
+    ],
+    "status": "translated",
+    "explanation": "Libellé du bouton de pagination permettant d’aller à la première page ; « First » est accordé au nom de page sous-entendu en français.",
+    "glossary_terms": [
+      "First → Première"
+    ],
+    "confidence": "high"
+  },
+  "534977d0c76374485904": {
+    "msgid": "Following documents are linked with {0}",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "old_translations": {
+      "msgstr": ""
+    },
+    "comments": [
+      "#. Added by add_missing_js_translations.py (direct)",
+      "#: frappe/public/js/frappe/form/linked_with.js:53"
+    ],
+    "references": [
+      "frappe/public/js/frappe/form/linked_with.js:53"
+    ],
+    "id": "534977d0c76374485904",
+    "translations": [
+      {
+        "field": "msgstr",
+        "value": "Les documents suivants sont liés à {0}"
+      }
+    ],
+    "status": "translated",
+    "explanation": "En-tête de la liste des documents liés à l’enregistrement courant ; le placeholder {0} est conservé exactement et « Linked » est rendu par « lié ».",
+    "glossary_terms": [
+      "Documents → Documents",
+      "Linked → Lié",
+      "{0} → {0}"
+    ],
+    "confidence": "high"
+  },
+  "4f1ef00064aaab607ec8": {
+    "msgid": "For comparison, use >5, <10 or =324.\nFor ranges, use 5:10 (for values between 5 & 10).",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "old_translations": {
+      "msgstr": ""
+    },
+    "comments": [
+      "#. Added by add_missing_js_translations.py (direct)",
+      "#: frappe/public/js/frappe/views/reports/report_view.js:456"
+    ],
+    "references": [
+      "frappe/public/js/frappe/views/reports/report_view.js:456"
+    ],
+    "id": "4f1ef00064aaab607ec8",
+    "translations": [
+      {
+        "field": "msgstr",
+        "value": "Pour comparer, utilisez >5, <10 ou =324.\nPour les plages, utilisez 5:10 (pour les valeurs comprises entre 5 et 10)."
+      }
+    ],
+    "status": "translated",
+    "explanation": "Aide affichée dans la vue des rapports pour expliquer la syntaxe des comparaisons et des plages ; les opérateurs, chiffres, deux-points et retour à la ligne sont conservés exactement.",
+    "glossary_terms": [
+      "or → ou",
+      "Between → Entre"
+    ],
+    "confidence": "high"
+  },
+  "d70bf3319c6381b1f0a3": {
+    "msgid": "Go to Login Required field",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "old_translations": {
+      "msgstr": ""
+    },
+    "comments": [
+      "#. Added by add_missing_js_translations.py (direct)",
+      "#: frappe/website/doctype/web_form/web_form.js:383"
+    ],
+    "references": [
+      "frappe/website/doctype/web_form/web_form.js:383"
+    ],
+    "id": "d70bf3319c6381b1f0a3",
+    "translations": [
+      {
+        "field": "msgstr",
+        "value": "Accéder au champ Connexion requise"
+      }
+    ],
+    "status": "translated",
+    "explanation": "Infobulle permettant d’accéder au champ de formulaire Web concerné ; l’action est formulée à l’infinitif et « Login required » est traduit par « Connexion requise ».",
+    "glossary_terms": [
+      "Login required → Connexion requise",
+      "Go → Accéder",
+      "Field → champ"
+    ],
+    "confidence": "high"
+  },
+  "e168efaa12887a01f107": {
+    "msgid": "HTML Message",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "old_translations": {
+      "msgstr": ""
+    },
+    "comments": [
+      "#. Added by add_missing_js_translations.py (direct)",
+      "#: frappe/public/js/frappe/views/communication.js:143"
+    ],
+    "references": [
+      "frappe/public/js/frappe/views/communication.js:143"
+    ],
+    "id": "e168efaa12887a01f107",
+    "translations": [
+      {
+        "field": "msgstr",
+        "value": "Message HTML"
+      }
+    ],
+    "status": "translated",
+    "explanation": "Libellé d’un champ de code contenant un message HTML ; « Message » et l’acronyme « HTML » sont conservés selon le glossaire et l’usage technique français.",
+    "glossary_terms": [
+      "Message → Message",
+      "HTML → HTML"
+    ],
+    "confidence": "high"
+  },
+  "59c8e076a7a41ea959c4": {
+    "msgid": "Has Attachments",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "old_translations": {
+      "msgstr": ""
+    },
+    "comments": [
+      "#. Added by add_missing_js_translations.py (direct)",
+      "#: frappe/public/js/frappe/views/inbox/inbox_view.js:102"
+    ],
+    "references": [
+      "frappe/public/js/frappe/views/inbox/inbox_view.js:102"
+    ],
+    "id": "59c8e076a7a41ea959c4",
+    "translations": [
+      {
+        "field": "msgstr",
+        "value": "Contient des pièces jointes"
+      }
+    ],
+    "status": "translated",
+    "explanation": "Dans la vue de la boîte de réception, ce texte est utilisé comme infobulle pour indiquer qu’un e-mail contient des pièces jointes.",
+    "glossary_terms": [
+      "Attachments → Pièces jointes"
+    ],
+    "confidence": "high"
+  },
+  "7f4b5530443cfb59b707": {
+    "msgid": "Hidden columns include: <br> {0}",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "old_translations": {
+      "msgstr": ""
+    },
+    "comments": [
+      "#. Added by add_missing_js_translations.py (direct)",
+      "#: frappe/public/js/frappe/views/reports/query_report.js:1773"
+    ],
+    "references": [
+      "frappe/public/js/frappe/views/reports/query_report.js:1773"
+    ],
+    "id": "7f4b5530443cfb59b707",
+    "translations": [
+      {
+        "field": "msgstr",
+        "value": "Les colonnes masquées comprennent : <br> {0}"
+      }
+    ],
+    "status": "translated",
+    "explanation": "La traduction reprend le libellé de rapport fourni dans le glossaire et conserve exactement la balise HTML <br> ainsi que le placeholder {0}.",
+    "glossary_terms": [
+      "Hidden columns include: {0} → Les colonnes masquées comprennent : {0}",
+      "Hidden → masquées",
+      "Columns → colonnes"
+    ],
+    "confidence": "high"
+  },
+  "e7354d5af48d34195807": {
+    "msgid": "Hub",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "old_translations": {
+      "msgstr": ""
+    },
+    "comments": [
+      "#. Added by add_missing_js_translations.py (indirect via target)",
+      "#: frappe/public/js/frappe/ui/toolbar/search_utils.js:314"
+    ],
+    "references": [
+      "frappe/public/js/frappe/ui/toolbar/search_utils.js:314"
+    ],
+    "id": "e7354d5af48d34195807",
+    "translations": [
+      {
+        "field": "msgstr",
+        "value": "Hub"
+      }
+    ],
+    "status": "translated",
+    "explanation": "Dans la recherche de la barre d’outils, « Hub » est le nom propre de la cible et reste inchangé, conformément au glossaire.",
+    "glossary_terms": [
+      "hub → Hub"
+    ],
+    "confidence": "high"
+  },
+  "23328d74faeeb1b51f1c": {
+    "msgid": "Icon is not correctly configured please check the workspace sidebar to it",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "old_translations": {
+      "msgstr": ""
+    },
+    "comments": [
+      "#. Added by add_missing_js_translations.py (direct)",
+      "#: frappe/desk/page/desktop/desktop.js:1059"
+    ],
+    "references": [
+      "frappe/desk/page/desktop/desktop.js:1059"
+    ],
+    "id": "23328d74faeeb1b51f1c",
+    "translations": [
+      {
+        "field": "msgstr",
+        "value": "L’icône n’est pas correctement configurée. Veuillez vérifier la barre latérale de l’espace de travail qui lui est associée."
+      }
+    ],
+    "status": "translated",
+    "explanation": "Le message d’erreur de configuration de l’espace de travail est reformulé en français naturel, avec une ponctuation ajoutée pour séparer les deux consignes.",
+    "glossary_terms": [
+      "workspace → espace de travail",
+      "sidebar → barre latérale",
+      "Icon → icône"
+    ],
+    "confidence": "medium"
+  },
+  "6eae21f26524407df354": {
+    "msgid": "Last",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "old_translations": {
+      "msgstr": ""
+    },
+    "comments": [
+      "#. Added by add_missing_js_translations.py (direct)",
+      "#: frappe/public/js/frappe/form/grid_pagination.js:129"
+    ],
+    "references": [
+      "frappe/public/js/frappe/form/grid_pagination.js:129"
+    ],
+    "id": "6eae21f26524407df354",
+    "translations": [
+      {
+        "field": "msgstr",
+        "value": "Dernière"
+      }
+    ],
+    "status": "translated",
+    "explanation": "Dans le bouton de pagination last-page, « Dernière » qualifie implicitement la dernière page.",
+    "glossary_terms": [
+      "Last → Dernière"
+    ],
+    "confidence": "high"
+  },
+  "6fdde6036e1b6456ff9f": {
+    "msgid": "Last Edited by You",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "old_translations": {
+      "msgstr": ""
+    },
+    "comments": [
+      "#. Added by add_missing_js_translations.py (direct)",
+      "#: frappe/public/js/frappe/form/sidebar/form_sidebar.js:163"
+    ],
+    "references": [
+      "frappe/public/js/frappe/form/sidebar/form_sidebar.js:163"
+    ],
+    "id": "6fdde6036e1b6456ff9f",
+    "translations": [
+      {
+        "field": "msgstr",
+        "value": "Dernière modification par vous"
+      }
+    ],
+    "status": "translated",
+    "explanation": "Dans la barre latérale du formulaire, le libellé indique l’auteur de la dernière modification ; « vous » reprend le sens du glossaire source.",
+    "glossary_terms": [
+      "Last Edited by You → Dernière modification par vous",
+      "You → vous"
+    ],
+    "confidence": "high"
+  },
+  "9ab583380fbe5140866c": {
+    "msgid": "Last Edited by {0}",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "old_translations": {
+      "msgstr": ""
+    },
+    "comments": [
+      "#. Added by add_missing_js_translations.py (direct)",
+      "#: frappe/public/js/frappe/form/sidebar/form_sidebar.js:164"
+    ],
+    "references": [
+      "frappe/public/js/frappe/form/sidebar/form_sidebar.js:164"
+    ],
+    "id": "9ab583380fbe5140866c",
+    "translations": [
+      {
+        "field": "msgstr",
+        "value": "Dernière modification par {0}"
+      }
+    ],
+    "status": "translated",
+    "explanation": "Le placeholder {0}, qui contient le lien vers l’utilisateur, est conservé à la même position dans le libellé de la barre latérale du formulaire.",
+    "glossary_terms": [
+      "Last Edited by {0} → Dernière modification par {0}",
+      "{0} → {0}"
+    ],
+    "confidence": "high"
+  },
+  "ac4448532ed2adac24fa": {
+    "msgid": "Liked by me",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "old_translations": {
+      "msgstr": ""
+    },
+    "comments": [
+      "#. Added by add_missing_js_translations.py (direct)",
+      "#: frappe/public/js/frappe/list/list_view.js:804"
+    ],
+    "references": [
+      "frappe/public/js/frappe/list/list_view.js:804"
+    ],
+    "id": "ac4448532ed2adac24fa",
+    "translations": [
+      {
+        "field": "msgstr",
+        "value": "Aimé par moi"
+      }
+    ],
+    "status": "translated",
+    "explanation": "Dans la liste des documents, ce titre indique que l’élément a été aimé par l’utilisateur courant ; la correspondance « Liked By → Aimé par » est suivie.",
+    "glossary_terms": [
+      "Liked By → Aimé par",
+      "Me → Moi"
+    ],
+    "confidence": "high"
+  },
+  "c32da330ae1f26d6188c": {
+    "msgid": "Liked by {0} people",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "old_translations": {
+      "msgstr": ""
+    },
+    "comments": [
+      "#. Added by add_missing_js_translations.py (direct)",
+      "#: frappe/public/js/frappe/ui/like.js:117"
+    ],
+    "references": [
+      "frappe/public/js/frappe/ui/like.js:117"
+    ],
+    "id": "c32da330ae1f26d6188c",
+    "translations": [
+      {
+        "field": "msgstr",
+        "value": "Aimé par {0} personnes"
+      }
+    ],
+    "status": "translated",
+    "explanation": "Dans le résumé des mentions J’aime, le placeholder numérique {0} est conservé et « Liked By » est traduit par « Aimé par ».",
+    "glossary_terms": [
+      "Liked By → Aimé par",
+      "{0} → {0}"
+    ],
+    "confidence": "high"
+  },
+  "38ac93de4b9bfae7ebf2": {
+    "msgid": "Linked with {0}",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "old_translations": {
+      "msgstr": ""
+    },
+    "comments": [
+      "#. Added by add_missing_js_translations.py (direct)",
+      "#: frappe/public/js/frappe/views/inbox/inbox_view.js:109"
+    ],
+    "references": [
+      "frappe/public/js/frappe/views/inbox/inbox_view.js:109"
+    ],
+    "id": "38ac93de4b9bfae7ebf2",
+    "translations": [
+      {
+        "field": "msgstr",
+        "value": "Lié avec {0}"
+      }
+    ],
+    "status": "translated",
+    "explanation": "Dans la boîte de réception, le texte est une infobulle indiquant le type de document associé ; le placeholder {0} est conservé.",
+    "glossary_terms": [
+      "Linked With → Lié avec",
+      "{0} → {0}"
+    ],
+    "confidence": "high"
+  },
+  "e0ee83bd63d1f8625985": {
+    "msgid": "Manage Billing",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "old_translations": {
+      "msgstr": ""
+    },
+    "comments": [
+      "#. Added by add_missing_js_translations.py (direct)",
+      "#: frappe/public/js/billing.bundle.js:77"
+    ],
+    "references": [
+      "frappe/public/js/billing.bundle.js:77"
+    ],
+    "id": "e0ee83bd63d1f8625985",
+    "translations": [
+      {
+        "field": "msgstr",
+        "value": "Gérer la facturation"
+      }
+    ],
+    "status": "translated",
+    "explanation": "Il s’agit d’une entrée de menu ; le verbe est donc à l’infinitif conformément à la convention des boutons et menus, avec « Billing → Facturation ».",
+    "glossary_terms": [
+      "Manage → Gérer",
+      "Billing → Facturation"
+    ],
+    "confidence": "high"
+  },
+  "95a49cbf4f3a7b4306d3": {
+    "msgid": "More Options",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "old_translations": {
+      "msgstr": ""
+    },
+    "comments": [
+      "#. Added by add_missing_js_translations.py (direct)",
+      "#: frappe/public/js/frappe/views/communication.js:63"
+    ],
+    "references": [
+      "frappe/public/js/frappe/views/communication.js:63"
+    ],
+    "id": "95a49cbf4f3a7b4306d3",
+    "translations": [
+      {
+        "field": "msgstr",
+        "value": "Plus d’options"
+      }
+    ],
+    "status": "translated",
+    "explanation": "Dans la vue de communication, ce texte sert de titre au bouton qui ouvre des options supplémentaires ; « More → Plus » et « Options → Options » sont repris du glossaire.",
+    "glossary_terms": [
+      "More → Plus",
+      "Options → Options"
+    ],
+    "confidence": "high"
+  },
+  "5ecc02a9329e095e1bd0": {
+    "msgid": "Move Down",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "old_translations": {
+      "msgstr": ""
+    },
+    "comments": [
+      "#. Added by add_missing_js_translations.py (indirect via label, indirect via title)",
+      "#: frappe/public/js/frappe/views/workspace/blocks/block.js:184 frappe/public/js/frappe/views/workspace/blocks/block.js:185"
+    ],
+    "references": [
+      "frappe/public/js/frappe/views/workspace/blocks/block.js:184",
+      "frappe/public/js/frappe/views/workspace/blocks/block.js:185"
+    ],
+    "id": "5ecc02a9329e095e1bd0",
+    "translations": [
+      {
+        "field": "msgstr",
+        "value": "Déplacer vers le bas"
+      }
+    ],
+    "status": "translated",
+    "explanation": "Dans le menu d’action du bloc d’espace de travail, le bouton de déplacement vers la position inférieure est formulé à l’infinitif.",
+    "glossary_terms": [
+      "Move → Déplacer"
+    ],
+    "confidence": "high"
+  },
+  "c24538f2f16f3f522f63": {
+    "msgid": "Move Up",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "old_translations": {
+      "msgstr": ""
+    },
+    "comments": [
+      "#. Added by add_missing_js_translations.py (indirect via label, indirect via title)",
+      "#: frappe/public/js/frappe/views/workspace/blocks/block.js:178 frappe/public/js/frappe/views/workspace/blocks/block.js:179"
+    ],
+    "references": [
+      "frappe/public/js/frappe/views/workspace/blocks/block.js:178",
+      "frappe/public/js/frappe/views/workspace/blocks/block.js:179"
+    ],
+    "id": "c24538f2f16f3f522f63",
+    "translations": [
+      {
+        "field": "msgstr",
+        "value": "Déplacer vers le haut"
+      }
+    ],
+    "status": "translated",
+    "explanation": "Dans le menu d’action du bloc d’espace de travail, le bouton de déplacement vers la position supérieure est formulé à l’infinitif.",
+    "glossary_terms": [
+      "Move → Déplacer"
+    ],
+    "confidence": "high"
+  },
+  "a26cb6f876a97ede0e9e": {
+    "msgid": "N/A",
+    "msgid_plural": null,
+    "msgctxt": "Number not available",
+    "old_translations": {
+      "msgstr": ""
+    },
+    "comments": [
+      "#. Added by add_missing_js_translations.py (direct)",
+      "#: frappe/public/js/frappe/widgets/number_card_widget.js:235"
+    ],
+    "references": [
+      "frappe/public/js/frappe/widgets/number_card_widget.js:235"
+    ],
+    "id": "a26cb6f876a97ede0e9e",
+    "translations": [
+      {
+        "field": "msgstr",
+        "value": "N/D"
+      }
+    ],
+    "status": "translated",
+    "explanation": "Le contexte « Number not available » indique qu’il s’agit de la valeur affichée lorsqu’un nombre n’est pas disponible ; « N/D » est l’abréviation française adaptée à cette carte numérique.",
+    "glossary_terms": [],
+    "confidence": "high"
+  },
+  "e3bd9bfd8bf511340971": {
+    "msgid": "Next Actions",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "old_translations": {
+      "msgstr": ""
+    },
+    "comments": [
+      "#. Added by add_missing_js_translations.py (direct)",
+      "#: frappe/core/doctype/success_action/success_action.js:44"
+    ],
+    "references": [
+      "frappe/core/doctype/success_action/success_action.js:44"
+    ],
+    "id": "e3bd9bfd8bf511340971",
+    "translations": [
+      {
+        "field": "msgstr",
+        "value": "Actions suivantes"
+      }
+    ],
+    "status": "translated",
+    "explanation": "Dans le champ de sélection des actions d’une action de réussite, la traduction reprend le terme métier fourni dans le glossaire.",
+    "glossary_terms": [
+      "Next actions → Actions suivantes",
+      "Actions → Actions"
+    ],
+    "confidence": "high"
+  },
+  "c7756eba173e7c95bddf": {
+    "msgid": "No data to perform this action",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "old_translations": {
+      "msgstr": ""
+    },
+    "comments": [
+      "#. Added by add_missing_js_translations.py (direct)",
+      "#: frappe/public/js/frappe/views/reports/query_report.js:1556"
+    ],
+    "references": [
+      "frappe/public/js/frappe/views/reports/query_report.js:1556"
+    ],
+    "id": "c7756eba173e7c95bddf",
+    "translations": [
+      {
+        "field": "msgstr",
+        "value": "Aucune donnée pour effectuer cette action"
+      }
+    ],
+    "status": "translated",
+    "explanation": "Il s’agit du titre affiché dans un rapport lorsqu’aucune donnée ne permet d’exécuter l’action ; « Aucune donnée » suit le glossaire « No Data ».",
+    "glossary_terms": [
+      "No Data → Aucune donnée",
+      "Action → Action"
+    ],
+    "confidence": "high"
+  },
+  "326d121eb126cc257f4a": {
+    "msgid": "No matching entries in the current results",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "old_translations": {
+      "msgstr": ""
+    },
+    "comments": [
+      "#. Added by add_missing_js_translations.py (direct)",
+      "#: frappe/public/js/frappe/views/reports/report_view.js:347"
+    ],
+    "references": [
+      "frappe/public/js/frappe/views/reports/report_view.js:347"
+    ],
+    "id": "326d121eb126cc257f4a",
+    "translations": [
+      {
+        "field": "msgstr",
+        "value": "Aucune entrée correspondante dans les résultats actuels"
+      }
+    ],
+    "status": "translated",
+    "explanation": "Message affiché dans la vue de rapport lorsqu’aucune ligne ne correspond aux filtres ou aux résultats courants ; « résultats actuels » rend le contexte de recherche en cours.",
+    "glossary_terms": [
+      "Current → Actuelle"
+    ],
+    "confidence": "high"
+  },
+  "a285454f5813b8bdf7ed": {
+    "msgid": "No permission to '{0}' {1}",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "old_translations": {
+      "msgstr": ""
+    },
+    "comments": [
+      "#. Added by add_missing_js_translations.py (direct)",
+      "#: frappe/public/js/frappe/form/form.js:1181"
+    ],
+    "references": [
+      "frappe/public/js/frappe/form/form.js:1181"
+    ],
+    "id": "a285454f5813b8bdf7ed",
+    "translations": [
+      {
+        "field": "msgstr",
+        "value": "Pas d’autorisation pour « {0} » {1}"
+      }
+    ],
+    "status": "translated",
+    "explanation": "Le message d’erreur de formulaire reprend la tournure terminologique fournie, avec les placeholders {0} et {1} conservés dans le même ordre.",
+    "glossary_terms": [
+      "No permission to '{0}' {1} → Pas d'autorisation pour '{0}' {1}"
+    ],
+    "confidence": "high"
+  },
+  "fa8d8f40cf8100e83ef9": {
+    "msgid": "Open Link",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "old_translations": {
+      "msgstr": ""
+    },
+    "comments": [
+      "#. Added by add_missing_js_translations.py (direct)",
+      "#: frappe/public/js/frappe/form/controls/data.js:84 frappe/public/js/frappe/form/controls/link.js:20"
+    ],
+    "references": [
+      "frappe/public/js/frappe/form/controls/data.js:84",
+      "frappe/public/js/frappe/form/controls/link.js:20"
+    ],
+    "id": "fa8d8f40cf8100e83ef9",
+    "translations": [
+      {
+        "field": "msgstr",
+        "value": "Ouvrir le lien"
+      }
+    ],
+    "status": "translated",
+    "explanation": "Le texte est utilisé comme infobulle d’un bouton permettant d’ouvrir un lien ; le bouton est donc formulé à l’infinitif conformément à la convention demandée.",
+    "glossary_terms": [
+      "Open → Ouvert",
+      "Link → Lien"
+    ],
+    "confidence": "high"
+  },
+  "5f2b3567eeedd4e51af3": {
+    "msgid": "Open Translation",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "old_translations": {
+      "msgstr": ""
+    },
+    "comments": [
+      "#. Added by add_missing_js_translations.py (direct)",
+      "#: frappe/public/js/frappe/form/controls/base_control.js:166"
+    ],
+    "references": [
+      "frappe/public/js/frappe/form/controls/base_control.js:166"
+    ],
+    "id": "5f2b3567eeedd4e51af3",
+    "translations": [
+      {
+        "field": "msgstr",
+        "value": "Ouvrir la traduction"
+      }
+    ],
+    "status": "translated",
+    "explanation": "Le texte est l’infobulle d’un bouton d’accès à la traduction ; l’infinitif « Ouvrir » est utilisé pour le bouton.",
+    "glossary_terms": [
+      "Translation → Traduction",
+      "Open → Ouvert"
+    ],
+    "confidence": "high"
+  },
+  "fe46881a45f77fa20da0": {
+    "msgid": "Please adjust filters to include some data",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "old_translations": {
+      "msgstr": ""
+    },
+    "comments": [
+      "#. Added by add_missing_js_translations.py (direct)",
+      "#: frappe/public/js/frappe/views/reports/query_report.js:1557"
+    ],
+    "references": [
+      "frappe/public/js/frappe/views/reports/query_report.js:1557"
+    ],
+    "id": "fe46881a45f77fa20da0",
+    "translations": [
+      {
+        "field": "msgstr",
+        "value": "Veuillez ajuster les filtres pour inclure des données"
+      }
+    ],
+    "status": "translated",
+    "explanation": "Message associé au rapport sans données : il invite l’utilisateur à modifier les filtres afin d’obtenir des résultats.",
+    "glossary_terms": [
+      "Filters → Filtres",
+      "Data → Données"
+    ],
+    "confidence": "high"
+  },
+  "c6c424fb2c992832d401": {
+    "msgid": "Please enter the password for: <b>{0}</b>",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "old_translations": {
+      "msgstr": ""
+    },
+    "comments": [
+      "#. Added by add_missing_js_translations.py (direct)",
+      "#: frappe/public/js/frappe/desk.js:218"
+    ],
+    "references": [
+      "frappe/public/js/frappe/desk.js:218"
+    ],
+    "id": "c6c424fb2c992832d401",
+    "translations": [
+      {
+        "field": "msgstr",
+        "value": "Veuillez saisir le mot de passe pour : <b>{0}</b>"
+      }
+    ],
+    "status": "translated",
+    "explanation": "La traduction reprend exactement le libellé fourni dans le glossaire et conserve la balise HTML ainsi que le placeholder {0}.",
+    "glossary_terms": [
+      "Please enter the password for: <b>{0}</b> → Veuillez saisir le mot de passe pour : <b>{0}</b>"
+    ],
+    "confidence": "high"
+  },
+  "1e876a081b9b76b15592": {
+    "msgid": "Preview Chart",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "old_translations": {
+      "msgstr": ""
+    },
+    "comments": [
+      "#. Added by add_missing_js_translations.py (indirect via label)",
+      "#: frappe/public/js/frappe/views/reports/query_report.js:1301"
+    ],
+    "references": [
+      "frappe/public/js/frappe/views/reports/query_report.js:1301"
+    ],
+    "id": "1e876a081b9b76b15592",
+    "translations": [
+      {
+        "field": "msgstr",
+        "value": "Prévisualiser le graphique"
+      }
+    ],
+    "status": "translated",
+    "explanation": "Dans le rapport, il s’agit du libellé d’un bouton qui lance l’aperçu du graphique ; le verbe est donc employé à l’infinitif.",
+    "glossary_terms": [
+      "Preview → Aperçu",
+      "Chart → Graphique"
+    ],
+    "confidence": "high"
+  },
+  "b66c5211205f22cc5b7f": {
+    "msgid": "Refresh List",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "old_translations": {
+      "msgstr": ""
+    },
+    "comments": [
+      "#. Added by add_missing_js_translations.py (direct)",
+      "#: frappe/public/js/frappe/widgets/quick_list_widget.js:53"
+    ],
+    "references": [
+      "frappe/public/js/frappe/widgets/quick_list_widget.js:53"
+    ],
+    "id": "b66c5211205f22cc5b7f",
+    "translations": [
+      {
+        "field": "msgstr",
+        "value": "Actualiser la liste"
+      }
+    ],
+    "status": "translated",
+    "explanation": "Libellé de l’infobulle du bouton de rechargement de la liste ; « Refresh » suit le glossaire « Actualiser » et le bouton emploie l’infinitif.",
+    "glossary_terms": [
+      "Refresh → Actualiser",
+      "List → Liste"
+    ],
+    "confidence": "high"
+  },
+  "7cebb41a9cbbde3821d8": {
+    "msgid": "Remove Filter",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "old_translations": {
+      "msgstr": ""
+    },
+    "comments": [
+      "#. Added by add_missing_js_translations.py (direct)",
+      "#: frappe/public/js/frappe/ui/filters/filter.js:404"
+    ],
+    "references": [
+      "frappe/public/js/frappe/ui/filters/filter.js:404"
+    ],
+    "id": "7cebb41a9cbbde3821d8",
+    "translations": [
+      {
+        "field": "msgstr",
+        "value": "Retirer le filtre"
+      }
+    ],
+    "status": "translated",
+    "explanation": "Libellé du bouton de suppression d’un filtre ; l’infinitif « Retirer » et le terme « filtre » suivent le glossaire et le contexte de l’interface de filtrage.",
+    "glossary_terms": [
+      "Remove → Retirer",
+      "Filter → Filtre"
+    ],
+    "confidence": "high"
+  },
+  "b1911531fe3d4421d3dc": {
+    "msgid": "Removed Icons",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "old_translations": {
+      "msgstr": ""
+    },
+    "comments": [
+      "#. Added by add_missing_js_translations.py (direct)",
+      "#: frappe/desk/page/desktop/desktop.js:1197"
+    ],
+    "references": [
+      "frappe/desk/page/desktop/desktop.js:1197"
+    ],
+    "id": "b1911531fe3d4421d3dc",
+    "translations": [
+      {
+        "field": "msgstr",
+        "value": "Icônes supprimées"
+      }
+    ],
+    "status": "translated",
+    "explanation": "Texte affiché dans l’espace de travail après la suppression d’icônes ; le pluriel et l’accord féminin suivent « icône » et « Supprimé » du glossaire.",
+    "glossary_terms": [
+      "Removed → Supprimé",
+      "Icon → Icône"
+    ],
+    "confidence": "high"
+  },
+  "ef9fd75e97bbdb23e388": {
+    "msgid": "Sales without complexity, lock-in and per-user costs. Try it for free!",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "old_translations": {
+      "msgstr": ""
+    },
+    "comments": [
+      "#. Added by add_missing_js_translations.py (direct)",
+      "#: frappe/public/js/frappe/ui/sidebar/sidebar.js:123"
+    ],
+    "references": [
+      "frappe/public/js/frappe/ui/sidebar/sidebar.js:123"
+    ],
+    "id": "ef9fd75e97bbdb23e388",
+    "translations": [
+      {
+        "field": "msgstr",
+        "value": "Des ventes sans complexité, sans dépendance ni coûts par utilisateur. Essayez gratuitement !"
+      }
+    ],
+    "status": "translated",
+    "explanation": "Message promotionnel de la barre latérale ; « lock-in » est rendu naturellement par « dépendance », tandis que l’appel à l’action final emploie l’impératif français adapté au texte marketing.",
+    "glossary_terms": [],
+    "confidence": "medium"
+  },
+  "3af949abbbdc58351b3b": {
+    "msgid": "Save Current Filter",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "old_translations": {
+      "msgstr": ""
+    },
+    "comments": [
+      "#. Added by add_missing_js_translations.py (indirect via filter_name)",
+      "#: frappe/public/js/frappe/list/list_filter.js:88"
+    ],
+    "references": [
+      "frappe/public/js/frappe/list/list_filter.js:88"
+    ],
+    "id": "3af949abbbdc58351b3b",
+    "translations": [
+      {
+        "field": "msgstr",
+        "value": "Enregistrer le filtre actuel"
+      }
+    ],
+    "status": "translated",
+    "explanation": "Nom de l’action de création d’un filtre dans la liste ; « Save », « Current » et « Filter » suivent les correspondances du glossaire, avec l’infinitif requis pour un bouton ou une action.",
+    "glossary_terms": [
+      "Save → Enregistrer",
+      "Current → Actuelle",
+      "Filter → Filtre"
+    ],
+    "confidence": "high"
+  },
+  "e821b760a7e10c4a0c15": {
+    "msgid": "Scan",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "old_translations": {
+      "msgstr": ""
+    },
+    "comments": [
+      "#. Added by add_missing_js_translations.py (direct)",
+      "#: frappe/public/js/frappe/form/controls/data.js:149"
+    ],
+    "references": [
+      "frappe/public/js/frappe/form/controls/data.js:149"
+    ],
+    "id": "e821b760a7e10c4a0c15",
+    "translations": [
+      {
+        "field": "msgstr",
+        "value": "Scanner"
+      }
+    ],
+    "status": "translated",
+    "explanation": "Infobulle du bouton associé à la lecture d’un code-barres dans un champ de données ; l’infinitif « Scanner » est cohérent avec le glossaire « Scan QRCode → Scanner le code QR ».",
+    "glossary_terms": [
+      "Scan → Scanner"
+    ],
+    "confidence": "high"
+  },
+  "e98556c421bd5d82972c": {
+    "msgid": "Search for countries...",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "old_translations": {
+      "msgstr": ""
+    },
+    "comments": [
+      "#. Added by add_missing_js_translations.py (direct)",
+      "#: frappe/public/js/frappe/phone_picker/phone_picker.js:20"
+    ],
+    "references": [
+      "frappe/public/js/frappe/phone_picker/phone_picker.js:20"
+    ],
+    "id": "e98556c421bd5d82972c",
+    "translations": [
+      {
+        "field": "msgstr",
+        "value": "Rechercher des pays..."
+      }
+    ],
+    "status": "translated",
+    "explanation": "Placeholder du champ de recherche du sélecteur téléphonique ; le verbe « Rechercher » suit le glossaire et la formulation décrit la recherche parmi les pays.",
+    "glossary_terms": [
+      "Search → Rechercher"
+    ],
+    "confidence": "high"
+  },
+  "6492dcd68fcf139af107": {
+    "msgid": "Search for icons...",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "old_translations": {
+      "msgstr": ""
+    },
+    "comments": [
+      "#. Added by add_missing_js_translations.py (direct)",
+      "#: frappe/public/js/frappe/icon_picker/icon_picker.js:20"
+    ],
+    "references": [
+      "frappe/public/js/frappe/icon_picker/icon_picker.js:20"
+    ],
+    "id": "6492dcd68fcf139af107",
+    "translations": [
+      {
+        "field": "msgstr",
+        "value": "Rechercher des icônes..."
+      }
+    ],
+    "status": "translated",
+    "explanation": "Placeholder du champ de recherche du sélecteur d’icônes ; « Rechercher » et « icônes » reprennent les termes du glossaire avec l’accord et le pluriel français.",
+    "glossary_terms": [
+      "Search → Rechercher",
+      "icon → icône"
+    ],
+    "confidence": "high"
+  },
+  "86bb42130facd00d909a": {
+    "msgid": "Search or type a command",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "old_translations": {
+      "msgstr": ""
+    },
+    "comments": [
+      "#. Added by add_missing_js_translations.py (direct)",
+      "#: frappe/public/js/frappe/ui/toolbar/awesome_bar.js:35"
+    ],
+    "references": [
+      "frappe/public/js/frappe/ui/toolbar/awesome_bar.js:35"
+    ],
+    "id": "86bb42130facd00d909a",
+    "translations": [
+      {
+        "field": "msgstr",
+        "value": "Rechercher ou saisir une commande"
+      }
+    ],
+    "status": "translated",
+    "explanation": "Placeholder de la barre de commandes ; « Search » est traduit par « Rechercher », « type » par « saisir », et la formulation reste concise pour un champ d’interface.",
+    "glossary_terms": [
+      "Search → Rechercher",
+      "Type → Type",
+      "or → ou"
+    ],
+    "confidence": "high"
+  },
+  "a7b0ee7442323b6b01bf": {
+    "msgid": "Search the docs (Press / to focus)",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "old_translations": {
+      "msgstr": ""
+    },
+    "comments": [
+      "#. Added by add_missing_js_translations.py (direct)",
+      "#: frappe/website/js/website.js:429"
+    ],
+    "references": [
+      "frappe/website/js/website.js:429"
+    ],
+    "id": "a7b0ee7442323b6b01bf",
+    "translations": [
+      {
+        "field": "msgstr",
+        "value": "Rechercher dans la documentation (appuyez sur / pour activer le champ)"
+      }
+    ],
+    "status": "translated",
+    "explanation": "Placeholder du champ de recherche du site ; la parenthèse et le caractère « / » sont conservés, avec une formulation naturelle de l’instruction de raccourci clavier.",
+    "glossary_terms": [
+      "Search → Rechercher"
+    ],
+    "confidence": "high"
+  },
+  "9bd7e249016f9a165b35": {
+    "msgid": "Security.txt will be served only under HTTPS.",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "old_translations": {
+      "msgstr": ""
+    },
+    "comments": [
+      "#. Added by add_missing_js_translations.py (direct)",
+      "#: frappe/core/doctype/security_settings/security_settings.js:13"
+    ],
+    "references": [
+      "frappe/core/doctype/security_settings/security_settings.js:13"
+    ],
+    "id": "9bd7e249016f9a165b35",
+    "translations": [
+      {
+        "field": "msgstr",
+        "value": "Security.txt sera accessible uniquement via HTTPS."
+      }
+    ],
+    "status": "translated",
+    "explanation": "Alerte de sécurité indiquant le protocole de diffusion du fichier Security.txt ; le nom du fichier et le sigle HTTPS sont conservés tels quels.",
+    "glossary_terms": [],
+    "confidence": "high"
+  },
+  "ceb321161c90f2fc787d": {
+    "msgid": "Setting",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "old_translations": {
+      "msgstr": ""
+    },
+    "comments": [
+      "#. Added by add_missing_js_translations.py (direct)",
+      "#: frappe/public/js/frappe/views/workspace/blocks/block.js:201"
+    ],
+    "references": [
+      "frappe/public/js/frappe/views/workspace/blocks/block.js:201"
+    ],
+    "id": "ceb321161c90f2fc787d",
+    "translations": [
+      {
+        "field": "msgstr",
+        "value": "Paramètre"
+      }
+    ],
+    "status": "translated",
+    "explanation": "Infobulle du bouton ouvrant les options d’un bloc de l’espace de travail ; « Setting » est rendu par le terme d’interface « Paramètre », cohérent avec le glossaire.",
+    "glossary_terms": [
+      "Setting → Paramètre"
+    ],
+    "confidence": "high"
+  },
+  "2595bbec116fa7ecfb08": {
+    "msgid": "Shrink",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "old_translations": {
+      "msgstr": ""
+    },
+    "comments": [
+      "#. Added by add_missing_js_translations.py (indirect via label)",
+      "#: frappe/public/js/frappe/views/workspace/blocks/block.js:172"
+    ],
+    "references": [
+      "frappe/public/js/frappe/views/workspace/blocks/block.js:172"
+    ],
+    "id": "2595bbec116fa7ecfb08",
+    "translations": [
+      {
+        "field": "msgstr",
+        "value": "Réduire"
+      }
+    ],
+    "status": "translated",
+    "explanation": "Dans le contexte d’une action sur un bloc de l’espace de travail, « Shrink » est traduit par l’infinitif « Réduire », conformément à la convention des boutons.",
+    "glossary_terms": [],
+    "confidence": "high"
+  },
+  "0e2c6d5b4dd0c044beb3": {
+    "msgid": "Shrink Block",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "old_translations": {
+      "msgstr": ""
+    },
+    "comments": [
+      "#. Added by add_missing_js_translations.py (indirect via title)",
+      "#: frappe/public/js/frappe/views/workspace/blocks/block.js:173"
+    ],
+    "references": [
+      "frappe/public/js/frappe/views/workspace/blocks/block.js:173"
+    ],
+    "id": "0e2c6d5b4dd0c044beb3",
+    "translations": [
+      {
+        "field": "msgstr",
+        "value": "Réduire le bloc"
+      }
+    ],
+    "status": "translated",
+    "explanation": "Le titre de l’action concerne le bloc de l’espace de travail ; la traduction reprend « bloc » et emploie l’infinitif pour l’action.",
+    "glossary_terms": [],
+    "confidence": "high"
+  },
+  "241194516298c76758ef": {
+    "msgid": "Support without complexity, lock-in and per-user costs. Try it for free!",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "old_translations": {
+      "msgstr": ""
+    },
+    "comments": [
+      "#. Added by add_missing_js_translations.py (direct)",
+      "#: frappe/public/js/frappe/ui/sidebar/sidebar.js:143"
+    ],
+    "references": [
+      "frappe/public/js/frappe/ui/sidebar/sidebar.js:143"
+    ],
+    "id": "241194516298c76758ef",
+    "translations": [
+      {
+        "field": "msgstr",
+        "value": "Bénéficiez d’une assistance sans complexité, sans dépendance à un fournisseur ni frais par utilisateur. Essayez gratuitement !"
+      }
+    ],
+    "status": "translated",
+    "explanation": "Le message promotionnel de la barre latérale est formulé en français naturel ; « lock-in » est rendu par « dépendance à un fournisseur » et « per-user costs » par « frais par utilisateur ».",
+    "glossary_terms": [],
+    "confidence": "high"
+  },
+  "9d3d591daaa3f5dba9e7": {
+    "msgid": "Switch to Frappe CRM",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "old_translations": {
+      "msgstr": ""
+    },
+    "comments": [
+      "#. Added by add_missing_js_translations.py (direct)",
+      "#: frappe/public/js/frappe/ui/sidebar/sidebar.js:121"
+    ],
+    "references": [
+      "frappe/public/js/frappe/ui/sidebar/sidebar.js:121"
+    ],
+    "id": "9d3d591daaa3f5dba9e7",
+    "translations": [
+      {
+        "field": "msgstr",
+        "value": "Passer à Frappe CRM"
+      }
+    ],
+    "status": "translated",
+    "explanation": "Dans le contexte de l’action de changement d’application, « Switch to » est traduit par « Passer à » et le nom de produit « Frappe CRM » est conservé.",
+    "glossary_terms": [
+      "To → À",
+      "Frappe → Frappe"
+    ],
+    "confidence": "high"
+  },
+  "07d4de7c80cd23a8df6f": {
+    "msgid": "Switch to Helpdesk",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "old_translations": {
+      "msgstr": ""
+    },
+    "comments": [
+      "#. Added by add_missing_js_translations.py (direct)",
+      "#: frappe/public/js/frappe/ui/sidebar/sidebar.js:141"
+    ],
+    "references": [
+      "frappe/public/js/frappe/ui/sidebar/sidebar.js:141"
+    ],
+    "id": "07d4de7c80cd23a8df6f",
+    "translations": [
+      {
+        "field": "msgstr",
+        "value": "Passer à Helpdesk"
+      }
+    ],
+    "status": "translated",
+    "explanation": "Dans le contexte de l’action de changement d’application, « Switch to » est traduit par « Passer à » ; « Helpdesk » est conservé comme nom de produit ou module.",
+    "glossary_terms": [
+      "To → À"
+    ],
+    "confidence": "high"
+  },
+  "457734c762f000fda944": {
+    "msgid": "Toggle Awesomebar",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "old_translations": {
+      "msgstr": ""
+    },
+    "comments": [
+      "#. Added by add_missing_js_translations.py (direct)",
+      "#: frappe/desk/page/desktop/desktop.js:531"
+    ],
+    "references": [
+      "frappe/desk/page/desktop/desktop.js:531"
+    ],
+    "id": "457734c762f000fda944",
+    "translations": [
+      {
+        "field": "msgstr",
+        "value": "Afficher/masquer l’Awesomebar"
+      }
+    ],
+    "status": "translated",
+    "explanation": "La description correspond à une commande d’affichage ou de masquage ; « Awesomebar » est conservé conformément au glossaire et l’infinitif est utilisé.",
+    "glossary_terms": [
+      "Awesomebar → Awesomebar",
+      "Toggle Awesomebar → Afficher/Cacher l’Awesomebar"
+    ],
+    "confidence": "high"
+  },
+  "54ec45d80d35ee91ebf8": {
+    "msgid": "Toggle sidebar",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "old_translations": {
+      "msgstr": ""
+    },
+    "comments": [
+      "#. Added by add_missing_js_translations.py (direct)",
+      "#: frappe/public/js/frappe/ui/sidebar/sidebar.js:319"
+    ],
+    "references": [
+      "frappe/public/js/frappe/ui/sidebar/sidebar.js:319"
+    ],
+    "id": "54ec45d80d35ee91ebf8",
+    "translations": [
+      {
+        "field": "msgstr",
+        "value": "Afficher/Cacher la barre latérale"
+      }
+    ],
+    "status": "translated",
+    "explanation": "La description de l’action de basculement de largeur de la barre latérale reprend directement la terminologie existante du glossaire.",
+    "glossary_terms": [
+      "Toggle Sidebar → Afficher/Cacher la barre latérale",
+      "Sidebar → Barre latérale"
+    ],
+    "confidence": "high"
+  },
+  "dd96fe4f62e0cb033a1d": {
+    "msgid": "Translations can be viewed by guests, avoid storing private details in translations.",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "old_translations": {
+      "msgstr": ""
+    },
+    "comments": [
+      "#. Added by add_missing_js_translations.py (direct)",
+      "#: frappe/core/doctype/translation/translation.js:8"
+    ],
+    "references": [
+      "frappe/core/doctype/translation/translation.js:8"
+    ],
+    "id": "dd96fe4f62e0cb033a1d",
+    "translations": [
+      {
+        "field": "msgstr",
+        "value": "Les invités peuvent consulter les traductions ; évitez d’y stocker des informations privées."
+      }
+    ],
+    "status": "translated",
+    "explanation": "Dans le contexte du DocType Translation, l’avertissement est traduit au pluriel pour désigner les invités et conserve clairement la recommandation de ne pas stocker de données privées.",
+    "glossary_terms": [],
+    "confidence": "high"
+  },
+  "7815c6e317191ca6562b": {
+    "msgid": "Type of Chart",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "old_translations": {
+      "msgstr": ""
+    },
+    "comments": [
+      "#. Added by add_missing_js_translations.py (indirect via label)",
+      "#: frappe/public/js/frappe/views/reports/query_report.js:1267"
+    ],
+    "references": [
+      "frappe/public/js/frappe/views/reports/query_report.js:1267"
+    ],
+    "id": "7815c6e317191ca6562b",
+    "translations": [
+      {
+        "field": "msgstr",
+        "value": "Type de graphique"
+      }
+    ],
+    "status": "translated",
+    "explanation": "Le champ de sélection du rapport porte sur le type de graphique ; la traduction reprend les termes du glossaire « Type » et « Chart → Graphique ».",
+    "glossary_terms": [
+      "Type → Type",
+      "Chart → Graphique"
+    ],
+    "confidence": "high"
+  },
+  "555a3cccf5f0b84af893": {
+    "msgid": "Welcome to Frappe!",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "old_translations": {
+      "msgstr": ""
+    },
+    "comments": [
+      "#. Added by add_missing_js_translations.py (direct)",
+      "#: frappe/public/js/frappe/ui/user_onboarding/user_onboarding.bundle.js:17"
+    ],
+    "references": [
+      "frappe/public/js/frappe/ui/user_onboarding/user_onboarding.bundle.js:17"
+    ],
+    "id": "555a3cccf5f0b84af893",
+    "translations": [
+      {
+        "field": "msgstr",
+        "value": "Bienvenue dans Frappe !"
+      }
+    ],
+    "status": "translated",
+    "explanation": "Le titre du parcours d’intégration reprend la traduction glossarisée de « Welcome to {0} » et conserve le nom de produit « Frappe ».",
+    "glossary_terms": [
+      "Welcome → Bienvenue",
+      "Frappe → Frappe"
+    ],
+    "confidence": "high"
+  },
+  "6d4b2e9d4f5a202c3760": {
+    "msgid": "Welcome to the {0} workspace",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "old_translations": {
+      "msgstr": ""
+    },
+    "comments": [
+      "#. Added by add_missing_js_translations.py (direct)",
+      "#: frappe/public/js/frappe/views/workspace/workspace.js:710"
+    ],
+    "references": [
+      "frappe/public/js/frappe/views/workspace/workspace.js:710"
+    ],
+    "id": "6d4b2e9d4f5a202c3760",
+    "translations": [
+      {
+        "field": "msgstr",
+        "value": "Bienvenue dans l’espace de travail {0}"
+      }
+    ],
+    "status": "translated",
+    "explanation": "Le message affiché lorsqu’un espace de travail ne contient aucun bloc reprend « Espace de travail » et conserve exactement le placeholder {0}.",
+    "glossary_terms": [
+      "Welcome → Bienvenue",
+      "Workspace → Espace de travail"
+    ],
+    "confidence": "high"
+  },
+  "52d9819f87c442149b6a": {
+    "msgid": "Workflow must have atleast one state and transition",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "old_translations": {
+      "msgstr": ""
+    },
+    "comments": [
+      "#. Added by add_missing_js_translations.py (indirect via message)",
+      "#: frappe/public/js/workflow_builder/store.js:94 frappe/workflow/doctype/workflow/workflow.js:68"
+    ],
+    "references": [
+      "frappe/public/js/workflow_builder/store.js:94",
+      "frappe/workflow/doctype/workflow/workflow.js:68"
+    ],
+    "id": "52d9819f87c442149b6a",
+    "translations": [
+      {
+        "field": "msgstr",
+        "value": "Le workflow doit comporter au moins un état et une transition"
+      }
+    ],
+    "status": "translated",
+    "explanation": "Dans la validation d’un workflow actif, « atleast one » est corrigé en français par « au moins un » ; les termes métier « Workflow » et « State → État » sont repris du glossaire.",
+    "glossary_terms": [
+      "Workflow → Workflow",
+      "State → État",
+      "and → et"
+    ],
+    "confidence": "high"
+  },
+  "7e183911d545b2f0b806": {
+    "msgid": "Workspace added to desktop",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "old_translations": {
+      "msgstr": ""
+    },
+    "comments": [
+      "#. Added by add_missing_js_translations.py (direct)",
+      "#: frappe/desk/doctype/workspace/workspace.js:58"
+    ],
+    "references": [
+      "frappe/desk/doctype/workspace/workspace.js:58"
+    ],
+    "id": "7e183911d545b2f0b806",
+    "translations": [
+      {
+        "field": "msgstr",
+        "value": "Espace de travail ajouté au bureau"
+      }
+    ],
+    "status": "translated",
+    "explanation": "Dans la notification JavaScript signalant l’ajout d’un espace de travail au bureau, les termes du glossaire « Workspace » et « Desktop » sont respectivement rendus par « Espace de travail » et « Bureau ».",
+    "glossary_terms": [
+      "Workspace → Espace de travail",
+      "Desktop → Bureau",
+      "Added → Ajouté"
+    ],
+    "confidence": "high"
+  },
+  "a2e061b24f46e2959fa4": {
+    "msgid": "You attached {0}",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "old_translations": {
+      "msgstr": ""
+    },
+    "comments": [
+      "#. Added by add_missing_js_translations.py (direct)",
+      "#: frappe/public/js/frappe/form/footer/form_timeline.js:414"
+    ],
+    "references": [
+      "frappe/public/js/frappe/form/footer/form_timeline.js:414"
+    ],
+    "id": "a2e061b24f46e2959fa4",
+    "translations": [
+      {
+        "field": "msgstr",
+        "value": "Vous avez attaché {0}"
+      }
+    ],
+    "status": "translated",
+    "explanation": "Dans la timeline du formulaire, la traduction reprend directement le libellé du glossaire et conserve exactement le placeholder {0} du nom de fichier joint.",
+    "glossary_terms": [
+      "You attached {0} → Vous avez attaché {0}",
+      "Attach → Attacher"
+    ],
+    "confidence": "high"
+  },
+  "5c197d94a800f07cdfb9": {
+    "msgid": "You cancelled this document {1}",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "old_translations": {
+      "msgstr": ""
+    },
+    "comments": [
+      "#. Added by add_missing_js_translations.py (direct)",
+      "#: frappe/public/js/frappe/form/footer/version_timeline_content_builder.js:62"
+    ],
+    "references": [
+      "frappe/public/js/frappe/form/footer/version_timeline_content_builder.js:62"
+    ],
+    "id": "5c197d94a800f07cdfb9",
+    "translations": [
+      {
+        "field": "msgstr",
+        "value": "Vous avez annulé ce document {1}"
+      }
+    ],
+    "status": "translated",
+    "explanation": "Dans la timeline des versions, « cancelled » est traduit par « annulé » et le placeholder {1} est conservé à la même position.",
+    "glossary_terms": [
+      "You cancelled this document {1} → Vous avez annulé ce document {1}",
+      "Document → Document"
+    ],
+    "confidence": "high"
+  },
+  "42c586c2df97057035f4": {
+    "msgid": "You changed {0} to {1}",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "old_translations": {
+      "msgstr": ""
+    },
+    "comments": [
+      "#. Added by add_missing_js_translations.py (direct)",
+      "#: frappe/public/js/frappe/form/footer/form_timeline.js:443"
+    ],
+    "references": [
+      "frappe/public/js/frappe/form/footer/form_timeline.js:443"
+    ],
+    "id": "42c586c2df97057035f4",
+    "translations": [
+      {
+        "field": "msgstr",
+        "value": "Vous avez modifié {0} en {1}"
+      }
+    ],
+    "status": "translated",
+    "explanation": "Dans la timeline du formulaire, la modification d’une valeur est formulée « modifié ... en ... », conformément au glossaire, avec conservation exacte des placeholders {0} et {1}.",
+    "glossary_terms": [
+      "You changed {0} to {1} → Vous avez modifié {0} en {1}"
+    ],
+    "confidence": "high"
+  },
+  "802c5a9428a6a9f66977": {
+    "msgid": "You created this document {0}",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "old_translations": {
+      "msgstr": ""
+    },
+    "comments": [
+      "#. Added by add_missing_js_translations.py (direct)",
+      "#: frappe/public/js/frappe/form/footer/version_timeline_content_builder.js:345"
+    ],
+    "references": [
+      "frappe/public/js/frappe/form/footer/version_timeline_content_builder.js:345"
+    ],
+    "id": "802c5a9428a6a9f66977",
+    "translations": [
+      {
+        "field": "msgstr",
+        "value": "Vous avez créé ce document {0}"
+      }
+    ],
+    "status": "translated",
+    "explanation": "Dans la timeline des versions, la traduction suit l’entrée de glossaire correspondante et conserve le placeholder {0} qui référence l’utilisateur ou la version.",
+    "glossary_terms": [
+      "You created this document {0} → Vous avez créé ce document {0}",
+      "Document → Document"
+    ],
+    "confidence": "high"
+  },
+  "cc458ee867695c55fdaf": {
+    "msgid": "You removed attachment {0}",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "old_translations": {
+      "msgstr": ""
+    },
+    "comments": [
+      "#. Added by add_missing_js_translations.py (direct)",
+      "#: frappe/public/js/frappe/form/footer/form_timeline.js:419"
+    ],
+    "references": [
+      "frappe/public/js/frappe/form/footer/form_timeline.js:419"
+    ],
+    "id": "cc458ee867695c55fdaf",
+    "translations": [
+      {
+        "field": "msgstr",
+        "value": "Vous avez retiré la pièce jointe {0}"
+      }
+    ],
+    "status": "translated",
+    "explanation": "Dans la timeline du formulaire, « attachment » est rendu par « pièce jointe » et « removed » par « retiré », conformément au glossaire ; {0} est conservé.",
+    "glossary_terms": [
+      "You removed attachment {0} → Vous avez retiré la pièce jointe {0}",
+      "Attachment → Pièce jointe",
+      "Removed → Supprimé"
+    ],
+    "confidence": "high"
+  },
+  "7164c95f4ccf97802c78": {
+    "msgid": "You submitted this document {0}",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "old_translations": {
+      "msgstr": ""
+    },
+    "comments": [
+      "#. Added by add_missing_js_translations.py (direct)",
+      "#: frappe/public/js/frappe/form/footer/version_timeline_content_builder.js:36"
+    ],
+    "references": [
+      "frappe/public/js/frappe/form/footer/version_timeline_content_builder.js:36"
+    ],
+    "id": "7164c95f4ccf97802c78",
+    "translations": [
+      {
+        "field": "msgstr",
+        "value": "Vous avez soumis ce document {0}"
+      }
+    ],
+    "status": "translated",
+    "explanation": "Dans la timeline des versions, la traduction reprend l’entrée de glossaire dédiée et conserve le placeholder {0}.",
+    "glossary_terms": [
+      "You submitted this document {0} → Vous avez soumis ce document {0}",
+      "Document → Document"
+    ],
+    "confidence": "high"
+  },
+  "f92e33c438511dc7a694": {
+    "msgid": "advanced_search__link_option",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "old_translations": {
+      "msgstr": ""
+    },
+    "comments": [
+      "#. Added by add_missing_js_translations.py (indirect via value)",
+      "#: frappe/public/js/frappe/form/controls/link.js:532"
+    ],
+    "references": [
+      "frappe/public/js/frappe/form/controls/link.js:532"
+    ],
+    "id": "f92e33c438511dc7a694",
+    "translations": [
+      {
+        "field": "msgstr",
+        "value": "Recherche avancée"
+      }
+    ],
+    "status": "translated",
+    "explanation": "Dans le contrôle de lien, il s’agit du libellé de l’option ouvrant la recherche avancée ; « Search » et « Advanced » sont traduits selon le glossaire.",
+    "glossary_terms": [
+      "Search → Rechercher",
+      "Advanced → Avancé"
+    ],
+    "confidence": "high"
+  },
+  "5fb9bf6539f3a474113a": {
+    "msgid": "card_name",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "old_translations": {
+      "msgstr": ""
+    },
+    "comments": [
+      "#. Added by add_missing_js_translations.py (indirect via block_name)",
+      "#: frappe/public/js/frappe/views/workspace/blocks/block.js:133"
+    ],
+    "references": [
+      "frappe/public/js/frappe/views/workspace/blocks/block.js:133"
+    ],
+    "id": "5fb9bf6539f3a474113a",
+    "translations": [
+      {
+        "field": "msgstr",
+        "value": "Nom de la carte"
+      }
+    ],
+    "status": "translated",
+    "explanation": "Dans le bloc de type liens de l’espace de travail, « card_name » désigne le nom de la carte ; la traduction combine les termes du glossaire « Name » et « Card ».",
+    "glossary_terms": [
+      "Name → Nom",
+      "Card → Carte"
+    ],
+    "confidence": "high"
+  },
+  "07d94b004efaffb43ecc": {
+    "msgid": "create_new__link_option",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "old_translations": {
+      "msgstr": ""
+    },
+    "comments": [
+      "#. Added by add_missing_js_translations.py (indirect via value)",
+      "#: frappe/public/js/frappe/form/controls/link.js:508"
+    ],
+    "references": [
+      "frappe/public/js/frappe/form/controls/link.js:508"
+    ],
+    "id": "07d94b004efaffb43ecc",
+    "translations": [
+      {
+        "field": "msgstr",
+        "value": "Créer un nouveau {0}"
+      }
+    ],
+    "status": "translated",
+    "explanation": "Dans l’option du contrôle de lien permettant de créer un document, le bouton emploie l’infinitif « Créer » et le placeholder {0} est conservé exactement.",
+    "glossary_terms": [
+      "Create → Créer",
+      "new → Nouveau(elle)"
+    ],
+    "confidence": "high"
+  },
+  "7cccf9b91a38621d8341": {
+    "msgid": "e.g. (55 + 434) / 4",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "old_translations": {
+      "msgstr": ""
+    },
+    "comments": [
+      "#. Added by add_missing_js_translations.py (direct)",
+      "#: frappe/public/js/frappe/ui/toolbar/awesome_bar.js:234"
+    ],
+    "references": [
+      "frappe/public/js/frappe/ui/toolbar/awesome_bar.js:234"
+    ],
+    "id": "7cccf9b91a38621d8341",
+    "translations": [
+      {
+        "field": "msgstr",
+        "value": "par ex. (55 + 434) / 4"
+      }
+    ],
+    "status": "translated",
+    "explanation": "Dans la barre de recherche, il s’agit d’un exemple d’expression de calcul ; l’expression mathématique et ses espaces sont conservés, tandis que l’abréviation anglaise est rendue naturellement par « par ex. ».",
+    "glossary_terms": [
+      "e.g. (55 + 434) / 4 or =Math.sin(Math.PI/2)... → e.g. (55 + 434) / 4 ou = Math.sin(Math.PI/2) ..."
+    ],
+    "confidence": "high"
+  },
+  "4c3045c21121e1e1405e": {
+    "msgid": "empty",
+    "msgid_plural": null,
+    "msgctxt": "Comparison value is empty",
+    "old_translations": {
+      "msgstr": ""
+    },
+    "comments": [
+      "#. Added by add_missing_js_translations.py (direct)",
+      "#: frappe/public/js/frappe/form/controls/link.js:624"
+    ],
+    "references": [
+      "frappe/public/js/frappe/form/controls/link.js:624"
+    ],
+    "id": "4c3045c21121e1e1405e",
+    "translations": [
+      {
+        "field": "msgstr",
+        "value": "vide"
+      }
+    ],
+    "status": "translated",
+    "explanation": "Dans le contexte msgctxt « Comparison value is empty », la valeur de comparaison attendue est l’adjectif isolé « vide », conformément au glossaire.",
+    "glossary_terms": [
+      "empty → vide"
+    ],
+    "confidence": "high"
+  },
+  "8b45ad9a3a8aab56175e": {
+    "msgid": "filter_description__link_option",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "old_translations": {
+      "msgstr": ""
+    },
+    "comments": [
+      "#. Added by add_missing_js_translations.py (indirect via value)",
+      "#: frappe/public/js/frappe/form/controls/link.js:493"
+    ],
+    "references": [
+      "frappe/public/js/frappe/form/controls/link.js:493"
+    ],
+    "id": "8b45ad9a3a8aab56175e",
+    "translations": [],
+    "status": "manual",
+    "explanation": "Le msgid est un identifiant interne (« filter_description__link_option ») utilisé comme valeur dans le contrôle Link, et non une expression anglaise affichée. Son libellé utilisateur ne peut pas être déterminé de manière fiable à partir de l’extrait fourni.",
+    "glossary_terms": [],
+    "confidence": "low"
+  },
+  "b99ec9e58373450f2c48": {
+    "msgid": "here",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "old_translations": {
+      "msgstr": ""
+    },
+    "comments": [
+      "#. Added by add_missing_js_translations.py (direct)",
+      "#: frappe/email/doctype/email_account/email_account.js:126 frappe/email/doctype/email_account/email_account.js:139"
+    ],
+    "references": [
+      "frappe/email/doctype/email_account/email_account.js:126",
+      "frappe/email/doctype/email_account/email_account.js:139"
+    ],
+    "id": "b99ec9e58373450f2c48",
+    "translations": [
+      {
+        "field": "msgstr",
+        "value": "ici"
+      }
+    ],
+    "status": "translated",
+    "explanation": "Dans le contexte des liens HTML vers une aide ou un dépôt externe, « here » se traduit naturellement par « ici ».",
+    "glossary_terms": [],
+    "confidence": "high"
+  },
+  "924f8a17c7e97f2e2274": {
+    "msgid": "is disabled",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "old_translations": {
+      "msgstr": ""
+    },
+    "comments": [
+      "#. Added by add_missing_js_translations.py (direct)",
+      "#: frappe/public/js/frappe/form/controls/link.js:661 frappe/public/js/frappe/form/controls/link.js:666 frappe/public/js/frappe/form/controls/link.js:679 frappe/public/js/frappe/form/controls/link.js:686"
+    ],
+    "references": [
+      "frappe/public/js/frappe/form/controls/link.js:661",
+      "frappe/public/js/frappe/form/controls/link.js:666",
+      "frappe/public/js/frappe/form/controls/link.js:679",
+      "frappe/public/js/frappe/form/controls/link.js:686"
+    ],
+    "id": "924f8a17c7e97f2e2274",
+    "translations": [
+      {
+        "field": "msgstr",
+        "value": "est désactivé"
+      }
+    ],
+    "status": "translated",
+    "explanation": "Le texte est concaténé à la description d’un champ dans les filtres Link ; la forme fragmentaire « est désactivé » conserve cette construction et l’accord masculin générique utilisé par l’interface.",
+    "glossary_terms": [
+      "is disabled → est désactivé"
+    ],
+    "confidence": "high"
+  },
+  "2ef15abdb0d2a6583fcb": {
+    "msgid": "is enabled",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "old_translations": {
+      "msgstr": ""
+    },
+    "comments": [
+      "#. Added by add_missing_js_translations.py (direct)",
+      "#: frappe/public/js/frappe/form/controls/link.js:660 frappe/public/js/frappe/form/controls/link.js:667 frappe/public/js/frappe/form/controls/link.js:680 frappe/public/js/frappe/form/controls/link.js:685"
+    ],
+    "references": [
+      "frappe/public/js/frappe/form/controls/link.js:660",
+      "frappe/public/js/frappe/form/controls/link.js:667",
+      "frappe/public/js/frappe/form/controls/link.js:680",
+      "frappe/public/js/frappe/form/controls/link.js:685"
+    ],
+    "id": "2ef15abdb0d2a6583fcb",
+    "translations": [
+      {
+        "field": "msgstr",
+        "value": "est activé"
+      }
+    ],
+    "status": "translated",
+    "explanation": "Le texte est concaténé à la description d’un champ dans les filtres Link ; « est activé » conserve la forme fragmentaire attendue dans cette construction.",
+    "glossary_terms": [
+      "is enabled → est activé"
+    ],
+    "confidence": "high"
+  },
+  "ce5159462dd0c5292c6b": {
+    "msgid": "last 14 days",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "old_translations": {
+      "msgstr": ""
+    },
+    "comments": [
+      "#. Added by add_missing_js_translations.py (indirect via value)",
+      "#: frappe/public/js/frappe/ui/filters/filter.js:638"
+    ],
+    "references": [
+      "frappe/public/js/frappe/ui/filters/filter.js:638"
+    ],
+    "id": "ce5159462dd0c5292c6b",
+    "translations": [
+      {
+        "field": "msgstr",
+        "value": "14 derniers jours"
+      }
+    ],
+    "status": "translated",
+    "explanation": "Il s’agit d’une option de période dans le sélecteur de filtres ; la traduction reprend le libellé français fourni pour « Last 14 Days ».",
+    "glossary_terms": [
+      "Last 14 Days → 14 derniers jours"
+    ],
+    "confidence": "high"
+  },
+  "64d9425bac47478f6fbf": {
+    "msgid": "last 30 days",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "old_translations": {
+      "msgstr": ""
+    },
+    "comments": [
+      "#. Added by add_missing_js_translations.py (indirect via value)",
+      "#: frappe/public/js/frappe/ui/filters/filter.js:642"
+    ],
+    "references": [
+      "frappe/public/js/frappe/ui/filters/filter.js:642"
+    ],
+    "id": "64d9425bac47478f6fbf",
+    "translations": [
+      {
+        "field": "msgstr",
+        "value": "30 derniers jours"
+      }
+    ],
+    "status": "translated",
+    "explanation": "Il s’agit d’une option de période dans le sélecteur de filtres ; la traduction reprend le libellé français fourni pour « Last 30 Days ».",
+    "glossary_terms": [
+      "Last 30 Days → 30 derniers jours"
+    ],
+    "confidence": "high"
+  },
+  "cc443ba498be02964e70": {
+    "msgid": "last 6 months",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "old_translations": {
+      "msgstr": ""
+    },
+    "comments": [
+      "#. Added by add_missing_js_translations.py (indirect via value)",
+      "#: frappe/public/js/frappe/ui/filters/filter.js:662"
+    ],
+    "references": [
+      "frappe/public/js/frappe/ui/filters/filter.js:662"
+    ],
+    "id": "cc443ba498be02964e70",
+    "translations": [
+      {
+        "field": "msgstr",
+        "value": "6 derniers mois"
+      }
+    ],
+    "status": "translated",
+    "explanation": "Il s’agit d’une option de période dans le sélecteur de filtres ; la traduction reprend le libellé français fourni pour « Last 6 Months ».",
+    "glossary_terms": [
+      "Last 6 Months → 6 derniers mois"
+    ],
+    "confidence": "high"
+  },
+  "4c02777939481c52b2b1": {
+    "msgid": "last 7 days",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "old_translations": {
+      "msgstr": ""
+    },
+    "comments": [
+      "#. Added by add_missing_js_translations.py (indirect via value)",
+      "#: frappe/public/js/frappe/ui/filters/filter.js:634"
+    ],
+    "references": [
+      "frappe/public/js/frappe/ui/filters/filter.js:634"
+    ],
+    "id": "4c02777939481c52b2b1",
+    "translations": [
+      {
+        "field": "msgstr",
+        "value": "7 derniers jours"
+      }
+    ],
+    "status": "translated",
+    "explanation": "Il s’agit d’une option de période dans le sélecteur de filtres ; la traduction reprend le libellé français fourni pour « Last 7 Days ».",
+    "glossary_terms": [
+      "Last 7 Days → 7 derniers jours"
+    ],
+    "confidence": "high"
+  },
+  "9db491e8db50fe19bac4": {
+    "msgid": "last 90 days",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "old_translations": {
+      "msgstr": ""
+    },
+    "comments": [
+      "#. Added by add_missing_js_translations.py (indirect via value)",
+      "#: frappe/public/js/frappe/ui/filters/filter.js:646"
+    ],
+    "references": [
+      "frappe/public/js/frappe/ui/filters/filter.js:646"
+    ],
+    "id": "9db491e8db50fe19bac4",
+    "translations": [
+      {
+        "field": "msgstr",
+        "value": "90 derniers jours"
+      }
+    ],
+    "status": "translated",
+    "explanation": "Il s’agit d’une option de période dans le sélecteur de filtres ; la traduction reprend le libellé français fourni pour « Last 90 Days ».",
+    "glossary_terms": [
+      "Last 90 Days → 90 derniers jours"
+    ],
+    "confidence": "high"
+  },
+  "762b06207e4a3798d507": {
+    "msgid": "last month",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "old_translations": {
+      "msgstr": ""
+    },
+    "comments": [
+      "#. Added by add_missing_js_translations.py (indirect via value)",
+      "#: frappe/public/js/frappe/ui/filters/filter.js:654"
+    ],
+    "references": [
+      "frappe/public/js/frappe/ui/filters/filter.js:654"
+    ],
+    "id": "762b06207e4a3798d507",
+    "translations": [
+      {
+        "field": "msgstr",
+        "value": "Le mois dernier"
+      }
+    ],
+    "status": "translated",
+    "explanation": "Dans le sélecteur de périodes, « last month » désigne la période calendaire précédente ; le libellé suit le terme français fourni dans le glossaire.",
+    "glossary_terms": [
+      "Last Month → Le mois dernier"
+    ],
+    "confidence": "high"
+  },
+  "f08a731b3e721b54e4ff": {
+    "msgid": "last quarter",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "old_translations": {
+      "msgstr": ""
+    },
+    "comments": [
+      "#. Added by add_missing_js_translations.py (indirect via value)",
+      "#: frappe/public/js/frappe/ui/filters/filter.js:658"
+    ],
+    "references": [
+      "frappe/public/js/frappe/ui/filters/filter.js:658"
+    ],
+    "id": "f08a731b3e721b54e4ff",
+    "translations": [
+      {
+        "field": "msgstr",
+        "value": "Le trimestre dernier"
+      }
+    ],
+    "status": "translated",
+    "explanation": "Dans le sélecteur de périodes, « last quarter » désigne le trimestre calendaire précédent ; « trimestre » est le terme métier naturel en français pour cette période.",
+    "glossary_terms": [],
+    "confidence": "high"
+  },
+  "f6e71017b7b3b5975fb7": {
+    "msgid": "last week",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "old_translations": {
+      "msgstr": ""
+    },
+    "comments": [
+      "#. Added by add_missing_js_translations.py (indirect via value)",
+      "#: frappe/public/js/frappe/ui/filters/filter.js:650"
+    ],
+    "references": [
+      "frappe/public/js/frappe/ui/filters/filter.js:650"
+    ],
+    "id": "f6e71017b7b3b5975fb7",
+    "translations": [
+      {
+        "field": "msgstr",
+        "value": "La semaine dernière"
+      }
+    ],
+    "status": "translated",
+    "explanation": "Dans le sélecteur de périodes, « last week » désigne la semaine précédente ; le libellé suit le terme français fourni dans le glossaire.",
+    "glossary_terms": [
+      "Last Week → La semaine dernière"
+    ],
+    "confidence": "high"
+  },
+  "d0040ca539fd6e6f1a9d": {
+    "msgid": "last year",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "old_translations": {
+      "msgstr": ""
+    },
+    "comments": [
+      "#. Added by add_missing_js_translations.py (indirect via value)",
+      "#: frappe/public/js/frappe/ui/filters/filter.js:666"
+    ],
+    "references": [
+      "frappe/public/js/frappe/ui/filters/filter.js:666"
+    ],
+    "id": "d0040ca539fd6e6f1a9d",
+    "translations": [
+      {
+        "field": "msgstr",
+        "value": "L’année dernière"
+      }
+    ],
+    "status": "translated",
+    "explanation": "Dans le filtre de dates JavaScript, « last year » correspond à l’intitulé « Last Year » ; la traduction du glossaire a été suivie.",
+    "glossary_terms": [
+      "Last Year → L’année dernière"
+    ],
+    "confidence": "high"
+  },
+  "db41a5d095314e57a9f3": {
+    "msgid": "next 14 days",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "old_translations": {
+      "msgstr": ""
+    },
+    "comments": [
+      "#. Added by add_missing_js_translations.py (indirect via value)",
+      "#: frappe/public/js/frappe/ui/filters/filter.js:694"
+    ],
+    "references": [
+      "frappe/public/js/frappe/ui/filters/filter.js:694"
+    ],
+    "id": "db41a5d095314e57a9f3",
+    "translations": [
+      {
+        "field": "msgstr",
+        "value": "Les 14 prochains jours"
+      }
+    ],
+    "status": "translated",
+    "explanation": "Dans le filtre de dates JavaScript, cette valeur désigne la période des 14 jours à venir ; la formulation du glossaire a été reprise.",
+    "glossary_terms": [
+      "Next 14 Days → Les 14 prochains jours"
+    ],
+    "confidence": "high"
+  },
+  "ef5ba03d61eb188380ec": {
+    "msgid": "next 30 days",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "old_translations": {
+      "msgstr": ""
+    },
+    "comments": [
+      "#. Added by add_missing_js_translations.py (indirect via value)",
+      "#: frappe/public/js/frappe/ui/filters/filter.js:698"
+    ],
+    "references": [
+      "frappe/public/js/frappe/ui/filters/filter.js:698"
+    ],
+    "id": "ef5ba03d61eb188380ec",
+    "translations": [
+      {
+        "field": "msgstr",
+        "value": "Les 30 prochains jours"
+      }
+    ],
+    "status": "translated",
+    "explanation": "Dans le filtre de dates JavaScript, cette valeur désigne la période des 30 jours à venir ; la formulation du glossaire a été reprise.",
+    "glossary_terms": [
+      "Next 30 Days → Les 30 prochains jours"
+    ],
+    "confidence": "high"
+  },
+  "b4dfb58e2fae55252e62": {
+    "msgid": "next 6 months",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "old_translations": {
+      "msgstr": ""
+    },
+    "comments": [
+      "#. Added by add_missing_js_translations.py (indirect via value)",
+      "#: frappe/public/js/frappe/ui/filters/filter.js:714"
+    ],
+    "references": [
+      "frappe/public/js/frappe/ui/filters/filter.js:714"
+    ],
+    "id": "b4dfb58e2fae55252e62",
+    "translations": [
+      {
+        "field": "msgstr",
+        "value": "Les 6 prochains mois"
+      }
+    ],
+    "status": "translated",
+    "explanation": "Dans le filtre de dates JavaScript, cette valeur désigne la période des six mois à venir ; la formulation du glossaire a été reprise.",
+    "glossary_terms": [
+      "Next 6 Months → Les 6 prochains mois"
+    ],
+    "confidence": "high"
+  },
+  "3f4c02fa11594b91c29f": {
+    "msgid": "next 7 days",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "old_translations": {
+      "msgstr": ""
+    },
+    "comments": [
+      "#. Added by add_missing_js_translations.py (indirect via value)",
+      "#: frappe/public/js/frappe/ui/filters/filter.js:690"
+    ],
+    "references": [
+      "frappe/public/js/frappe/ui/filters/filter.js:690"
+    ],
+    "id": "3f4c02fa11594b91c29f",
+    "translations": [
+      {
+        "field": "msgstr",
+        "value": "Les 7 prochains jours"
+      }
+    ],
+    "status": "translated",
+    "explanation": "Dans le filtre de dates JavaScript, cette valeur désigne la période des 7 jours à venir ; la formulation du glossaire a été reprise.",
+    "glossary_terms": [
+      "Next 7 Days → Les 7 prochains jours"
+    ],
+    "confidence": "high"
+  },
+  "fc48877623330a71c881": {
+    "msgid": "next month",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "old_translations": {
+      "msgstr": ""
+    },
+    "comments": [
+      "#. Added by add_missing_js_translations.py (indirect via value)",
+      "#: frappe/public/js/frappe/ui/filters/filter.js:706"
+    ],
+    "references": [
+      "frappe/public/js/frappe/ui/filters/filter.js:706"
+    ],
+    "id": "fc48877623330a71c881",
+    "translations": [
+      {
+        "field": "msgstr",
+        "value": "Le mois prochain"
+      }
+    ],
+    "status": "translated",
+    "explanation": "Dans le filtre de dates JavaScript, « next month » désigne le mois calendaire suivant ; la traduction du glossaire a été suivie.",
+    "glossary_terms": [
+      "Next Month → Le mois prochain"
+    ],
+    "confidence": "high"
+  },
+  "9469d13b9ca7fbee77a9": {
+    "msgid": "next quarter",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "old_translations": {
+      "msgstr": ""
+    },
+    "comments": [
+      "#. Added by add_missing_js_translations.py (indirect via value)",
+      "#: frappe/public/js/frappe/ui/filters/filter.js:710"
+    ],
+    "references": [
+      "frappe/public/js/frappe/ui/filters/filter.js:710"
+    ],
+    "id": "9469d13b9ca7fbee77a9",
+    "translations": [
+      {
+        "field": "msgstr",
+        "value": "Le prochain trimestre"
+      }
+    ],
+    "status": "translated",
+    "explanation": "Dans le filtre de dates JavaScript, « next quarter » désigne le trimestre suivant ; la traduction du glossaire a été suivie.",
+    "glossary_terms": [
+      "Next Quarter → Le prochain trimestre"
+    ],
+    "confidence": "high"
+  },
+  "aa1176ea6222e76473f7": {
+    "msgid": "next week",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "old_translations": {
+      "msgstr": ""
+    },
+    "comments": [
+      "#. Added by add_missing_js_translations.py (indirect via value)",
+      "#: frappe/public/js/frappe/ui/filters/filter.js:702"
+    ],
+    "references": [
+      "frappe/public/js/frappe/ui/filters/filter.js:702"
+    ],
+    "id": "aa1176ea6222e76473f7",
+    "translations": [
+      {
+        "field": "msgstr",
+        "value": "La semaine prochaine"
+      }
+    ],
+    "status": "translated",
+    "explanation": "Dans le filtre de dates JavaScript, « next week » désigne la semaine suivante ; la traduction du glossaire a été suivie.",
+    "glossary_terms": [
+      "Next Week → La semaine prochaine"
+    ],
+    "confidence": "high"
+  },
+  "0ee79937274acc59a87a": {
+    "msgid": "next year",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "old_translations": {
+      "msgstr": ""
+    },
+    "comments": [
+      "#. Added by add_missing_js_translations.py (indirect via value)",
+      "#: frappe/public/js/frappe/ui/filters/filter.js:718"
+    ],
+    "references": [
+      "frappe/public/js/frappe/ui/filters/filter.js:718"
+    ],
+    "id": "0ee79937274acc59a87a",
+    "translations": [
+      {
+        "field": "msgstr",
+        "value": "L’année prochaine"
+      }
+    ],
+    "status": "translated",
+    "explanation": "Dans le filtre de dates JavaScript, « next year » désigne l’année suivante ; la traduction du glossaire a été suivie.",
+    "glossary_terms": [
+      "Next Year → L’année prochaine"
+    ],
+    "confidence": "high"
+  },
+  "51cc81ff98021e0207c0": {
+    "msgid": "not set",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "old_translations": {
+      "msgstr": ""
+    },
+    "comments": [
+      "#. Added by add_missing_js_translations.py (indirect via label, indirect via value)",
+      "#: frappe/public/js/frappe/list/base_list.js:1013 frappe/public/js/frappe/ui/filters/filter.js:617"
+    ],
+    "references": [
+      "frappe/public/js/frappe/list/base_list.js:1013",
+      "frappe/public/js/frappe/ui/filters/filter.js:617"
+    ],
+    "id": "51cc81ff98021e0207c0",
+    "translations": [
+      {
+        "field": "msgstr",
+        "value": "Non défini"
+      }
+    ],
+    "status": "translated",
+    "explanation": "Dans le contexte « Field value is not set », la valeur indique qu’un champ n’est pas renseigné ; la terminologie « non défini » du glossaire a été appliquée.",
+    "glossary_terms": [
+      "Not Set → Non Défini"
+    ],
+    "confidence": "high"
+  },
+  "13b37e5b1499f49dc772": {
+    "msgid": "private/",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "old_translations": {
+      "msgstr": ""
+    },
+    "comments": [
+      "#. Added by add_missing_js_translations.py (indirect via name)",
+      "#: frappe/public/js/frappe/views/workspace/workspace.js:95"
+    ],
+    "references": [
+      "frappe/public/js/frappe/views/workspace/workspace.js:95"
+    ],
+    "id": "13b37e5b1499f49dc772",
+    "translations": [
+      {
+        "field": "msgstr",
+        "value": "private/"
+      }
+    ],
+    "status": "translated",
+    "explanation": "Cette chaîne est un fragment de route JavaScript concaténé avec le nom d’un espace de travail privé ; elle est conservée telle quelle pour ne pas modifier le chemin technique.",
+    "glossary_terms": [],
+    "confidence": "high"
+  },
+  "67a5d379e4273c704b9a": {
+    "msgid": "set",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "old_translations": {
+      "msgstr": ""
+    },
+    "comments": [
+      "#. Added by add_missing_js_translations.py (indirect via value)",
+      "#: frappe/public/js/frappe/ui/filters/filter.js:616"
+    ],
+    "references": [
+      "frappe/public/js/frappe/ui/filters/filter.js:616"
+    ],
+    "id": "67a5d379e4273c704b9a",
+    "translations": [
+      {
+        "field": "msgstr",
+        "value": "Défini"
+      }
+    ],
+    "status": "translated",
+    "explanation": "Dans le contexte « Field value is set », la valeur indique qu’un champ est renseigné ; « défini » est la formulation française adaptée à cette option de filtre.",
+    "glossary_terms": [
+      "{0} is set → {0} est défini"
+    ],
+    "confidence": "high"
+  },
+  "8e9ff9d8adfea47309fd": {
+    "msgid": "this month",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "old_translations": {
+      "msgstr": ""
+    },
+    "comments": [
+      "#. Added by add_missing_js_translations.py (indirect via value)",
+      "#: frappe/public/js/frappe/ui/filters/filter.js:676"
+    ],
+    "references": [
+      "frappe/public/js/frappe/ui/filters/filter.js:676"
+    ],
+    "id": "8e9ff9d8adfea47309fd",
+    "translations": [
+      {
+        "field": "msgstr",
+        "value": "Ce mois-ci"
+      }
+    ],
+    "status": "translated",
+    "explanation": "Libellé de filtre pour la période mensuelle en cours ; traduction alignée sur le glossaire « This Month » → « Ce mois-ci ».",
+    "glossary_terms": [
+      "This Month → Ce mois-ci"
+    ],
+    "confidence": "high"
+  },
+  "26b7f6d10666854ef452": {
+    "msgid": "this quarter",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "old_translations": {
+      "msgstr": ""
+    },
+    "comments": [
+      "#. Added by add_missing_js_translations.py (indirect via value)",
+      "#: frappe/public/js/frappe/ui/filters/filter.js:680"
+    ],
+    "references": [
+      "frappe/public/js/frappe/ui/filters/filter.js:680"
+    ],
+    "id": "26b7f6d10666854ef452",
+    "translations": [
+      {
+        "field": "msgstr",
+        "value": "Ce trimestre"
+      }
+    ],
+    "status": "translated",
+    "explanation": "Libellé de filtre pour le trimestre en cours ; traduction alignée sur le glossaire « This Quarter » → « Ce trimestre ».",
+    "glossary_terms": [
+      "This Quarter → Ce trimestre"
+    ],
+    "confidence": "high"
+  },
+  "ce12a315023ca1fdbb27": {
+    "msgid": "this week",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "old_translations": {
+      "msgstr": ""
+    },
+    "comments": [
+      "#. Added by add_missing_js_translations.py (indirect via value)",
+      "#: frappe/public/js/frappe/ui/filters/filter.js:672"
+    ],
+    "references": [
+      "frappe/public/js/frappe/ui/filters/filter.js:672"
+    ],
+    "id": "ce12a315023ca1fdbb27",
+    "translations": [
+      {
+        "field": "msgstr",
+        "value": "Cette semaine"
+      }
+    ],
+    "status": "translated",
+    "explanation": "Libellé de filtre pour la semaine en cours ; traduction alignée sur le glossaire « This Week » → « Cette semaine ».",
+    "glossary_terms": [
+      "This Week → Cette semaine"
+    ],
+    "confidence": "high"
+  },
+  "d02cd060e680510646e2": {
+    "msgid": "this year",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "old_translations": {
+      "msgstr": ""
+    },
+    "comments": [
+      "#. Added by add_missing_js_translations.py (indirect via value)",
+      "#: frappe/public/js/frappe/ui/filters/filter.js:684"
+    ],
+    "references": [
+      "frappe/public/js/frappe/ui/filters/filter.js:684"
+    ],
+    "id": "d02cd060e680510646e2",
+    "translations": [
+      {
+        "field": "msgstr",
+        "value": "Cette année"
+      }
+    ],
+    "status": "translated",
+    "explanation": "Libellé de filtre pour l’année en cours ; traduction alignée sur le glossaire « This Year » → « Cette année ».",
+    "glossary_terms": [
+      "This Year → Cette année"
+    ],
+    "confidence": "high"
+  },
+  "f87a9a595fe57a3fc11e": {
+    "msgid": "today",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "old_translations": {
+      "msgstr": ""
+    },
+    "comments": [
+      "#. Added by add_missing_js_translations.py (indirect via value)",
+      "#: frappe/public/js/frappe/ui/filters/filter.js:743"
+    ],
+    "references": [
+      "frappe/public/js/frappe/ui/filters/filter.js:743"
+    ],
+    "id": "f87a9a595fe57a3fc11e",
+    "translations": [
+      {
+        "field": "msgstr",
+        "value": "Aujourd'hui"
+      }
+    ],
+    "status": "translated",
+    "explanation": "Libellé de filtre de date correspondant au jour courant ; traduction alignée sur le glossaire « Today » → « Aujourd'hui ».",
+    "glossary_terms": [
+      "Today → Aujourd'hui"
+    ],
+    "confidence": "high"
+  },
+  "7f2edddd35db08029b38": {
+    "msgid": "tomorrow",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "old_translations": {
+      "msgstr": ""
+    },
+    "comments": [
+      "#. Added by add_missing_js_translations.py (indirect via value)",
+      "#: frappe/public/js/frappe/ui/filters/filter.js:749"
+    ],
+    "references": [
+      "frappe/public/js/frappe/ui/filters/filter.js:749"
+    ],
+    "id": "7f2edddd35db08029b38",
+    "translations": [
+      {
+        "field": "msgstr",
+        "value": "Demain"
+      }
+    ],
+    "status": "translated",
+    "explanation": "Libellé de filtre de date correspondant au jour suivant ; traduction alignée sur le glossaire « Tomorrow » → « Demain ».",
+    "glossary_terms": [
+      "Tomorrow → Demain"
+    ],
+    "confidence": "high"
+  },
+  "d25a99ddc0062457c03e": {
+    "msgid": "update",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "old_translations": {
+      "msgstr": ""
+    },
+    "comments": [
+      "#. Added by add_missing_js_translations.py (indirect via action)",
+      "#: frappe/public/js/frappe/form/form.js:2124"
+    ],
+    "references": [
+      "frappe/public/js/frappe/form/form.js:2124"
+    ],
+    "id": "d25a99ddc0062457c03e",
+    "translations": [
+      {
+        "field": "msgstr",
+        "value": "Mettre à jour"
+      }
+    ],
+    "status": "translated",
+    "explanation": "Le terme est utilisé comme action technique dans l’événement JavaScript « action = update » ; l’infinitif respecte la convention des actions de l’interface et le glossaire des boutons.",
+    "glossary_terms": [
+      "Update Settings → Mettre à jour les paramètres",
+      "Update Value → Mettre à Jour la valeur"
+    ],
+    "confidence": "medium"
+  },
+  "eab7869b5ed26af8edb8": {
+    "msgid": "value",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "old_translations": {
+      "msgstr": ""
+    },
+    "comments": [
+      "#. Added by add_missing_js_translations.py (direct)",
+      "#: frappe/public/js/frappe/form/link_selector.js:24 frappe/public/js/frappe/form/multi_select_dialog.js:80"
+    ],
+    "references": [
+      "frappe/public/js/frappe/form/link_selector.js:24",
+      "frappe/public/js/frappe/form/multi_select_dialog.js:80"
+    ],
+    "id": "eab7869b5ed26af8edb8",
+    "translations": [
+      {
+        "field": "msgstr",
+        "value": "valeur"
+      }
+    ],
+    "status": "translated",
+    "explanation": "Dans les sélecteurs de liens et la boîte de dialogue de sélection multiple, « value » désigne l’élément à sélectionner ; traduction cohérente avec le glossaire.",
+    "glossary_terms": [
+      "string value → valeur de chaîne",
+      "Value {0} missing for {1} → Valeur {0} manquante pour {1}"
+    ],
+    "confidence": "high"
+  },
+  "78f61188a9e12f5e92d4": {
+    "msgid": "{0} attached {1}",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "old_translations": {
+      "msgstr": ""
+    },
+    "comments": [
+      "#. Added by add_missing_js_translations.py (direct)",
+      "#: frappe/public/js/frappe/form/footer/form_timeline.js:415"
+    ],
+    "references": [
+      "frappe/public/js/frappe/form/footer/form_timeline.js:415"
+    ],
+    "id": "78f61188a9e12f5e92d4",
+    "translations": [
+      {
+        "field": "msgstr",
+        "value": "{0} a joint {1}"
+      }
+    ],
+    "status": "translated",
+    "explanation": "Message de la chronologie du formulaire indiquant qu’un utilisateur a ajouté une pièce jointe ; les deux placeholders sont conservés dans le même ordre et le glossaire « attached » → « joint » est suivi.",
+    "glossary_terms": [
+      "{0} attached {1} → {0} a joint {1}"
+    ],
+    "confidence": "high"
+  },
+  "e6dd6dfda8c17eec6d11": {
+    "msgid": "{0} cancelled this document {1}",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "old_translations": {
+      "msgstr": ""
+    },
+    "comments": [
+      "#. Added by add_missing_js_translations.py (direct)",
+      "#: frappe/public/js/frappe/form/footer/version_timeline_content_builder.js:67"
+    ],
+    "references": [
+      "frappe/public/js/frappe/form/footer/version_timeline_content_builder.js:67"
+    ],
+    "id": "e6dd6dfda8c17eec6d11",
+    "translations": [
+      {
+        "field": "msgstr",
+        "value": "{0} a annulé ce document {1}"
+      }
+    ],
+    "status": "translated",
+    "explanation": "Message de chronologie indiquant l’annulation d’un document ; la formulation et les deux placeholders suivent directement le glossaire correspondant.",
+    "glossary_terms": [
+      "{0} cancelled this document {1} → {0} a annulé ce document {1}",
+      "Document → Document"
+    ],
+    "confidence": "high"
+  },
+  "38aed94c2a6a84287e8d": {
+    "msgid": "{0} changed {1} to {2}",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "old_translations": {
+      "msgstr": ""
+    },
+    "comments": [
+      "#. Added by add_missing_js_translations.py (direct)",
+      "#: frappe/public/js/frappe/form/footer/form_timeline.js:444"
+    ],
+    "references": [
+      "frappe/public/js/frappe/form/footer/form_timeline.js:444"
+    ],
+    "id": "38aed94c2a6a84287e8d",
+    "translations": [
+      {
+        "field": "msgstr",
+        "value": "{0} a changé {1} en {2}"
+      }
+    ],
+    "status": "translated",
+    "explanation": "Message de chronologie signalant la modification d’un champ d’une valeur à une autre ; les trois placeholders sont conservés dans le même ordre selon le glossaire.",
+    "glossary_terms": [
+      "{0} changed {1} to {2} → {0} a changé {1} en {2}"
+    ],
+    "confidence": "high"
+  },
+  "ccf0fe9b91728fbd0ff3": {
+    "msgid": "{0} contains {1}",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "old_translations": {
+      "msgstr": ""
+    },
+    "comments": [
+      "#. Added by add_missing_js_translations.py (direct)",
+      "#: frappe/public/js/frappe/form/controls/link.js:699"
+    ],
+    "references": [
+      "frappe/public/js/frappe/form/controls/link.js:699"
+    ],
+    "id": "ccf0fe9b91728fbd0ff3",
+    "translations": [
+      {
+        "field": "msgstr",
+        "value": "{0} contient {1}"
+      }
+    ],
+    "status": "translated",
+    "explanation": "Condition de filtre « like » dans le contrôle de lien ; la traduction conserve les deux placeholders et reprend le verbe « contient » du glossaire.",
+    "glossary_terms": [
+      "{0} contains {1} → {0} contient {1}"
+    ],
+    "confidence": "high"
+  },
+  "83cf4fa98ad196d20bb0": {
+    "msgid": "{0} created this document {1}",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "old_translations": {
+      "msgstr": ""
+    },
+    "comments": [
+      "#. Added by add_missing_js_translations.py (direct)",
+      "#: frappe/public/js/frappe/form/footer/version_timeline_content_builder.js:347"
+    ],
+    "references": [
+      "frappe/public/js/frappe/form/footer/version_timeline_content_builder.js:347"
+    ],
+    "id": "83cf4fa98ad196d20bb0",
+    "translations": [
+      {
+        "field": "msgstr",
+        "value": "{0} a créé ce document {1}"
+      }
+    ],
+    "status": "translated",
+    "explanation": "Contexte de la chronologie des versions d’un document ; traduction alignée sur le glossaire et conservation exacte des deux placeholders.",
+    "glossary_terms": [
+      "{0} created this document {1} → {0} a créé ce document {1}",
+      "Document → Document"
+    ],
+    "confidence": "high"
+  },
+  "e0dae56796e6a7929f63": {
+    "msgid": "{0} does not contain {1}",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "old_translations": {
+      "msgstr": ""
+    },
+    "comments": [
+      "#. Added by add_missing_js_translations.py (direct)",
+      "#: frappe/public/js/frappe/form/controls/link.js:701"
+    ],
+    "references": [
+      "frappe/public/js/frappe/form/controls/link.js:701"
+    ],
+    "id": "e0dae56796e6a7929f63",
+    "translations": [
+      {
+        "field": "msgstr",
+        "value": "{0} ne contient pas {1}"
+      }
+    ],
+    "status": "translated",
+    "explanation": "Contexte des opérateurs de filtrage d’un champ Link ; « contient » est employé pour exprimer l’opérateur de recherche négatif, avec conservation exacte des placeholders.",
+    "glossary_terms": [
+      "does not contain → ne contient pas"
+    ],
+    "confidence": "high"
+  },
+  "225d0696a25c67289f97": {
+    "msgid": "{0} equals {1}",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "old_translations": {
+      "msgstr": ""
+    },
+    "comments": [
+      "#. Added by add_missing_js_translations.py (direct)",
+      "#: frappe/public/js/frappe/form/controls/link.js:674"
+    ],
+    "references": [
+      "frappe/public/js/frappe/form/controls/link.js:674"
+    ],
+    "id": "225d0696a25c67289f97",
+    "translations": [
+      {
+        "field": "msgstr",
+        "value": "{0} est égal à {1}"
+      }
+    ],
+    "status": "translated",
+    "explanation": "Contexte des opérateurs de filtrage ; traduction naturelle de « equals » et cohérente avec le libellé glossarisé « Equals → Égal à ».",
+    "glossary_terms": [
+      "Equals → Égal à",
+      "Is → Est"
+    ],
+    "confidence": "high"
+  },
+  "e56a2ebae89951f589a2": {
+    "msgid": "{0} is a descendant of {1}",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "old_translations": {
+      "msgstr": ""
+    },
+    "comments": [
+      "#. Added by add_missing_js_translations.py (direct)",
+      "#: frappe/public/js/frappe/form/controls/link.js:740"
+    ],
+    "references": [
+      "frappe/public/js/frappe/form/controls/link.js:740"
+    ],
+    "id": "e56a2ebae89951f589a2",
+    "translations": [
+      {
+        "field": "msgstr",
+        "value": "{0} est un descendant de {1}"
+      }
+    ],
+    "status": "translated",
+    "explanation": "Contexte du filtrage hiérarchique dans un champ Link ; « descendant de » restitue la relation d’arborescence et conserve les placeholders.",
+    "glossary_terms": [
+      "of → sur",
+      "Is → Est"
+    ],
+    "confidence": "high"
+  },
+  "e17f976ac41c8451b753": {
+    "msgid": "{0} is after {1}",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "old_translations": {
+      "msgstr": ""
+    },
+    "comments": [
+      "#. Added by add_missing_js_translations.py (direct)",
+      "#: frappe/public/js/frappe/form/controls/link.js:704"
+    ],
+    "references": [
+      "frappe/public/js/frappe/form/controls/link.js:704"
+    ],
+    "id": "e17f976ac41c8451b753",
+    "translations": [
+      {
+        "field": "msgstr",
+        "value": "{0} est après {1}"
+      }
+    ],
+    "status": "translated",
+    "explanation": "Contexte d’un opérateur de comparaison temporelle ; traduction conforme au terme glossarisé « After → Après » et conservation exacte des placeholders.",
+    "glossary_terms": [
+      "After → Après",
+      "Is → Est"
+    ],
+    "confidence": "high"
+  },
+  "638da05b352343d53e50": {
+    "msgid": "{0} is an ancestor of {1}",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "old_translations": {
+      "msgstr": ""
+    },
+    "comments": [
+      "#. Added by add_missing_js_translations.py (direct)",
+      "#: frappe/public/js/frappe/form/controls/link.js:742"
+    ],
+    "references": [
+      "frappe/public/js/frappe/form/controls/link.js:742"
+    ],
+    "id": "638da05b352343d53e50",
+    "translations": [
+      {
+        "field": "msgstr",
+        "value": "{0} est un ancêtre de {1}"
+      }
+    ],
+    "status": "translated",
+    "explanation": "Contexte du filtrage hiérarchique dans un champ Link ; « ancêtre de » est le terme naturel opposé à « descendant de ».",
+    "glossary_terms": [
+      "of → sur",
+      "Is → Est"
+    ],
+    "confidence": "high"
+  },
+  "7610d44e5f34072d6f45": {
+    "msgid": "{0} is before {1}",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "old_translations": {
+      "msgstr": ""
+    },
+    "comments": [
+      "#. Added by add_missing_js_translations.py (direct)",
+      "#: frappe/public/js/frappe/form/controls/link.js:709"
+    ],
+    "references": [
+      "frappe/public/js/frappe/form/controls/link.js:709"
+    ],
+    "id": "7610d44e5f34072d6f45",
+    "translations": [
+      {
+        "field": "msgstr",
+        "value": "{0} est avant {1}"
+      }
+    ],
+    "status": "translated",
+    "explanation": "Contexte d’un opérateur de comparaison temporelle ; traduction conforme au terme glossarisé « Before → Avant » et conservation exacte des placeholders.",
+    "glossary_terms": [
+      "Before → Avant",
+      "Is → Est"
+    ],
+    "confidence": "high"
+  },
+  "e9816a4718a37df490f6": {
+    "msgid": "{0} is between {1}",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "old_translations": {
+      "msgstr": ""
+    },
+    "comments": [
+      "#. Added by add_missing_js_translations.py (direct)",
+      "#: frappe/public/js/frappe/form/controls/link.js:738"
+    ],
+    "references": [
+      "frappe/public/js/frappe/form/controls/link.js:738"
+    ],
+    "id": "e9816a4718a37df490f6",
+    "translations": [
+      {
+        "field": "msgstr",
+        "value": "{0} est compris entre {1}"
+      }
+    ],
+    "status": "translated",
+    "explanation": "Contexte d’un opérateur de filtrage de valeurs ; formulation alignée sur le glossaire « is between → est compris entre » et conservation exacte des placeholders.",
+    "glossary_terms": [
+      "{0} is between {1} and {2} → {0} est compris entre {1} et {2}",
+      "Between → Entre",
+      "Is → Est"
+    ],
+    "confidence": "high"
+  },
+  "0b4679abcf9468d22c87": {
+    "msgid": "{0} is disabled",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "old_translations": {
+      "msgstr": ""
+    },
+    "comments": [
+      "#. Added by add_missing_js_translations.py (direct)",
+      "#: frappe/public/js/frappe/form/controls/link.js:672 frappe/public/js/frappe/form/controls/link.js:690"
+    ],
+    "references": [
+      "frappe/public/js/frappe/form/controls/link.js:672",
+      "frappe/public/js/frappe/form/controls/link.js:690"
+    ],
+    "id": "0b4679abcf9468d22c87",
+    "translations": [
+      {
+        "field": "msgstr",
+        "value": "{0} est désactivé"
+      }
+    ],
+    "status": "translated",
+    "explanation": "Contexte de l’état booléen d’un champ dans les filtres ; traduction conforme aux termes glossarisés « Is → Est » et « Disabled → Désactivé ».",
+    "glossary_terms": [
+      "Is → Est",
+      "Disabled → Désactivé"
+    ],
+    "confidence": "high"
+  },
+  "3c3b28cee7e3ab82c310": {
+    "msgid": "{0} is enabled",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "old_translations": {
+      "msgstr": ""
+    },
+    "comments": [
+      "#. Added by add_missing_js_translations.py (direct)",
+      "#: frappe/public/js/frappe/form/controls/link.js:671 frappe/public/js/frappe/form/controls/link.js:691"
+    ],
+    "references": [
+      "frappe/public/js/frappe/form/controls/link.js:671",
+      "frappe/public/js/frappe/form/controls/link.js:691"
+    ],
+    "id": "3c3b28cee7e3ab82c310",
+    "translations": [
+      {
+        "field": "msgstr",
+        "value": "{0} est activé"
+      }
+    ],
+    "status": "translated",
+    "explanation": "Contexte de l’état booléen d’un champ dans les filtres ; traduction conforme aux termes glossarisés « Is → Est » et « Enabled → Activé ».",
+    "glossary_terms": [
+      "Is → Est",
+      "Enabled → Activé"
+    ],
+    "confidence": "high"
+  },
+  "684a994d49c35e58c0a3": {
+    "msgid": "{0} is not a descendant of {1}",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "old_translations": {
+      "msgstr": ""
+    },
+    "comments": [
+      "#. Added by add_missing_js_translations.py (direct)",
+      "#: frappe/public/js/frappe/form/controls/link.js:744"
+    ],
+    "references": [
+      "frappe/public/js/frappe/form/controls/link.js:744"
+    ],
+    "id": "684a994d49c35e58c0a3",
+    "translations": [
+      {
+        "field": "msgstr",
+        "value": "{0} n’est pas un descendant de {1}"
+      }
+    ],
+    "status": "translated",
+    "explanation": "Contexte du filtrage hiérarchique négatif dans un champ Link ; conservation de la relation « descendant de » et des deux placeholders.",
+    "glossary_terms": [
+      "Is → Est"
+    ],
+    "confidence": "high"
+  },
+  "405408e17ec6fa61a8f2": {
+    "msgid": "{0} is not an ancestor of {1}",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "old_translations": {
+      "msgstr": ""
+    },
+    "comments": [
+      "#. Added by add_missing_js_translations.py (direct)",
+      "#: frappe/public/js/frappe/form/controls/link.js:746"
+    ],
+    "references": [
+      "frappe/public/js/frappe/form/controls/link.js:746"
+    ],
+    "id": "405408e17ec6fa61a8f2",
+    "translations": [
+      {
+        "field": "msgstr",
+        "value": "{0} n’est pas un ancêtre de {1}"
+      }
+    ],
+    "status": "translated",
+    "explanation": "Contexte du filtrage hiérarchique négatif dans un champ Link ; « ancêtre de » est conservé pour assurer la symétrie avec la relation descendante.",
+    "glossary_terms": [
+      "Is → Est"
+    ],
+    "confidence": "high"
+  },
+  "13e249a97c92258a204d": {
+    "msgid": "{0} is on or after {1}",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "old_translations": {
+      "msgstr": ""
+    },
+    "comments": [
+      "#. Added by add_missing_js_translations.py (direct)",
+      "#: frappe/public/js/frappe/form/controls/link.js:714"
+    ],
+    "references": [
+      "frappe/public/js/frappe/form/controls/link.js:714"
+    ],
+    "id": "13e249a97c92258a204d",
+    "translations": [
+      {
+        "field": "msgstr",
+        "value": "{0} est supérieur ou égal à {1}"
+      }
+    ],
+    "status": "translated",
+    "explanation": "Dans le contrôle de lien, la formulation exprime une comparaison temporelle inclusive ; les placeholders sont conservés dans le même ordre et la terminologie « supérieur ou égal à » suit le glossaire associé.",
+    "glossary_terms": [
+      "{0} is greater than or equal to {1} → {0} est supérieur ou égal à {1}"
+    ],
+    "confidence": "high"
+  },
+  "f042fc5131da3076bdbe": {
+    "msgid": "{0} is on or before {1}",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "old_translations": {
+      "msgstr": ""
+    },
+    "comments": [
+      "#. Added by add_missing_js_translations.py (direct)",
+      "#: frappe/public/js/frappe/form/controls/link.js:719"
+    ],
+    "references": [
+      "frappe/public/js/frappe/form/controls/link.js:719"
+    ],
+    "id": "f042fc5131da3076bdbe",
+    "translations": [
+      {
+        "field": "msgstr",
+        "value": "{0} est inférieur ou égal à {1}"
+      }
+    ],
+    "status": "translated",
+    "explanation": "Dans le contrôle de lien, la formulation exprime une comparaison temporelle inclusive ; les placeholders sont conservés dans le même ordre et la terminologie « inférieur ou égal à » suit le glossaire associé.",
+    "glossary_terms": [
+      "{0} is less than or equal to {1} → {0} est inférieur ou égal à {1}"
+    ],
+    "confidence": "high"
+  },
+  "464437216c6f266572ca": {
+    "msgid": "{0} is {1}",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "old_translations": {
+      "msgstr": ""
+    },
+    "comments": [
+      "#. Added by add_missing_js_translations.py (direct)",
+      "#: frappe/public/js/frappe/form/controls/link.js:729"
+    ],
+    "references": [
+      "frappe/public/js/frappe/form/controls/link.js:729"
+    ],
+    "id": "464437216c6f266572ca",
+    "translations": [
+      {
+        "field": "msgstr",
+        "value": "{0} est {1}"
+      }
+    ],
+    "status": "translated",
+    "explanation": "Dans le contrôle de lien, la traduction reprend la structure concise de la condition d’égalité et conserve exactement les deux placeholders.",
+    "glossary_terms": [
+      "Is → Est",
+      "{0} → {0}"
+    ],
+    "confidence": "high"
+  },
+  "0fa34636509da5ff042c": {
+    "msgid": "{0} of {1} records match (filtered on visible rows only)",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "old_translations": {
+      "msgstr": ""
+    },
+    "comments": [
+      "#. Added by add_missing_js_translations.py (direct)",
+      "#: frappe/public/js/frappe/views/reports/report_view.js:491"
+    ],
+    "references": [
+      "frappe/public/js/frappe/views/reports/report_view.js:491"
+    ],
+    "id": "0fa34636509da5ff042c",
+    "translations": [
+      {
+        "field": "msgstr",
+        "value": "{0} enregistrements sur {1} correspondent (filtrés uniquement sur les lignes visibles)"
+      }
+    ],
+    "status": "translated",
+    "explanation": "Dans la vue des rapports, le message indique la proportion d’enregistrements correspondant au filtre ; « of » est rendu par « sur » conformément au glossaire et les placeholders restent inchangés.",
+    "glossary_terms": [
+      "{0} of {1} → {0} sur {1}"
+    ],
+    "confidence": "high"
+  },
+  "d2a2e5406c57d2c280d0": {
+    "msgid": "{0} removed attachment {1}",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "old_translations": {
+      "msgstr": ""
+    },
+    "comments": [
+      "#. Added by add_missing_js_translations.py (direct)",
+      "#: frappe/public/js/frappe/form/footer/form_timeline.js:420"
+    ],
+    "references": [
+      "frappe/public/js/frappe/form/footer/form_timeline.js:420"
+    ],
+    "id": "d2a2e5406c57d2c280d0",
+    "translations": [
+      {
+        "field": "msgstr",
+        "value": "{0} a supprimé la pièce jointe {1}"
+      }
+    ],
+    "status": "translated",
+    "explanation": "Dans la chronologie du formulaire, la traduction reprend directement le libellé existant du glossaire pour l’action de suppression d’une pièce jointe, avec les deux placeholders conservés dans leur ordre d’origine.",
+    "glossary_terms": [
+      "{0} removed attachment {1} → {0} a supprimé la pièce jointe {1}"
+    ],
+    "confidence": "high"
+  },
+  "1715f7028dc44cc97112": {
+    "msgid": "{0} restricted document",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "old_translations": {
+      "msgstr": ""
+    },
+    "comments": [
+      "#. Added by add_missing_js_translations.py (direct)",
+      "#: frappe/public/js/frappe/form/linked_with.js:94"
+    ],
+    "references": [
+      "frappe/public/js/frappe/form/linked_with.js:94"
+    ],
+    "id": "1715f7028dc44cc97112",
+    "translations": [
+      {
+        "field": "msgstr",
+        "value": "{0} document restreint"
+      }
+    ],
+    "status": "translated",
+    "explanation": "Dans la section des documents liés, cette forme est utilisée lorsque le compteur vaut un ; « document » et « restreint » sont accordés au singulier et le placeholder est conservé.",
+    "glossary_terms": [
+      "Document → Document",
+      "{0} → {0}"
+    ],
+    "confidence": "high"
+  },
+  "6bdef3d5481060b40e92": {
+    "msgid": "{0} restricted documents",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "old_translations": {
+      "msgstr": ""
+    },
+    "comments": [
+      "#. Added by add_missing_js_translations.py (direct)",
+      "#: frappe/public/js/frappe/form/linked_with.js:94"
+    ],
+    "references": [
+      "frappe/public/js/frappe/form/linked_with.js:94"
+    ],
+    "id": "6bdef3d5481060b40e92",
+    "translations": [
+      {
+        "field": "msgstr",
+        "value": "{0} documents restreints"
+      }
+    ],
+    "status": "translated",
+    "explanation": "Dans la section des documents liés, cette forme est utilisée lorsque le compteur est supérieur à un ; le groupe nominal est accordé au pluriel et le placeholder est conservé.",
+    "glossary_terms": [
+      "Documents → Documents",
+      "Document → Document",
+      "{0} → {0}"
+    ],
+    "confidence": "high"
+  },
+  "4e37cae35ebac45ba6be": {
+    "msgid": "{0} rows from {1}",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "old_translations": {
+      "msgstr": ""
+    },
+    "comments": [
+      "#. Added by add_missing_js_translations.py (direct)",
+      "#: frappe/public/js/frappe/form/footer/version_timeline_content_builder.js:305"
+    ],
+    "references": [
+      "frappe/public/js/frappe/form/footer/version_timeline_content_builder.js:305"
+    ],
+    "id": "4e37cae35ebac45ba6be",
+    "translations": [
+      {
+        "field": "msgstr",
+        "value": "{0} lignes de {1}"
+      }
+    ],
+    "status": "translated",
+    "explanation": "Dans la chronologie des versions, le message décrit des lignes provenant d’une table ; la traduction suit directement le libellé correspondant du glossaire et conserve les placeholders.",
+    "glossary_terms": [
+      "{0} rows from {1} → {0} lignes de {1}",
+      "Row → Ligne"
+    ],
+    "confidence": "high"
+  },
+  "e4703c98c477dcde7560": {
+    "msgid": "{0} rows to {1}",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "old_translations": {
+      "msgstr": ""
+    },
+    "comments": [
+      "#. Added by add_missing_js_translations.py (direct)",
+      "#: frappe/public/js/frappe/form/footer/version_timeline_content_builder.js:260"
+    ],
+    "references": [
+      "frappe/public/js/frappe/form/footer/version_timeline_content_builder.js:260"
+    ],
+    "id": "e4703c98c477dcde7560",
+    "translations": [
+      {
+        "field": "msgstr",
+        "value": "{0} lignes ajoutées à {1}"
+      }
+    ],
+    "status": "translated",
+    "explanation": "Dans la chronologie des versions, le message décrit des lignes ajoutées à une table ; la formulation suit le libellé du glossaire et conserve les placeholders dans le même ordre.",
+    "glossary_terms": [
+      "{0} rows to {1} → {0} lignes ajoutées à {1}",
+      "To → À",
+      "Row → Ligne"
+    ],
+    "confidence": "high"
+  },
+  "59b59f521667fe4dbfe2": {
+    "msgid": "{0} submitted this document {1}",
+    "msgid_plural": null,
+    "msgctxt": null,
+    "old_translations": {
+      "msgstr": ""
+    },
+    "comments": [
+      "#. Added by add_missing_js_translations.py (direct)",
+      "#: frappe/public/js/frappe/form/footer/version_timeline_content_builder.js:41"
+    ],
+    "references": [
+      "frappe/public/js/frappe/form/footer/version_timeline_content_builder.js:41"
+    ],
+    "id": "59b59f521667fe4dbfe2",
+    "translations": [
+      {
+        "field": "msgstr",
+        "value": "{0} a validé ce document {1}"
+      }
+    ],
+    "status": "translated",
+    "explanation": "Dans la chronologie des versions, le message signale la validation d’un document par un utilisateur ; la traduction reprend exactement le libellé du glossaire et conserve les deux liens placés en paramètres.",
+    "glossary_terms": [
+      "{0} submitted this document {1} → {0} a validé ce document {1}",
+      "Submitted → Validé",
+      "Document → Document"
+    ],
+    "confidence": "high"
   }
 }
